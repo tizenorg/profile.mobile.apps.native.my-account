@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://tizen.org/ns/packages" package="setting-myaccount-efl" version="1.9.102" api-version="2.4" install-location="internal-only">
+	<label>Accounts</label>
+	<author email="wy1115.lee@samsung.com" href="www.samsung.com">Wonyoung Lee</author>
+	<description>My Account Application</description>
+	<ui-application appid="setting-myaccount-efl" exec="/usr/apps/setting-myaccount-efl/bin/setting-myaccount-efl" ui-gadget="true" nodisplay="true" multiple="true" type="capp" taskmanage="false" process-pool="true">
+		<icon>/usr/apps/org.tizen.setting/res/icons/list_icon/settings_account.png</icon>
+		<label>Accounts</label>
+		<label xml:lang="en-us">Accounts</label>
+		<label xml:lang="nl-nl">Accounts</label>
+		<label xml:lang="de-de">Konten</label>
+		<label xml:lang="zh-hk">帳戶</label>
+		<label xml:lang="zh-cn">帐户</label>
+		<label xml:lang="ru-ru">Учетные записи</label>
+		<label xml:lang="zh-tw">帳號</label>
+		<label xml:lang="ja-jp">アカウント</label>
+		<label xml:lang="es-es">Cuentas</label>
+		<label xml:lang="el-gr">Λογαριασμοί</label>
+		<label xml:lang="it-it">Account</label>
+		<label xml:lang="tr-tr">Hesaplar</label>
+		<label xml:lang="pt-pt">Contas</label>
+		<label xml:lang="fr-fr">Comptes</label>
+		<label xml:lang="ko-kr">계정</label>
+	</ui-application>
+	<privileges>
+		<privilege>http://tizen.org/privilege/account.read</privilege>
+		<privilege>http://tizen.org/privilege/account.write</privilege>
+		<privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+	</privileges>
+</manifest>

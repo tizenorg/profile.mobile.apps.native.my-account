@@ -1,0 +1,84 @@
+msgid "IDS_COM_BODY_GALLERY"
+msgstr "Галерија"
+
+msgid "IDS_COM_OPT_S_MEMO"
+msgstr "S Memo"
+
+msgid "IDS_COM_BODY_VOIP_CALL"
+msgstr "Повик VoIP"
+
+msgid "IDS_COM_BODY_S_PLANNER"
+msgstr "S Planner"
+
+msgid "IDS_COM_BODY_SAMSUNG_APPS_T_MAINMENU"
+msgstr "Samsung Apps"
+
+msgid "IDS_COM_BODY_MUSIC"
+msgstr "Музика"
+
+msgid "IDS_COM_BODY_MESSAGES"
+msgstr "Пораки"
+
+msgid "IDS_COM_BODY_INTERNET"
+msgstr "Интернет"
+
+msgid "IDS_COM_BODY_EMAIL"
+msgstr "Е-пошта"
+
+msgid "IDS_TW_BODY_POST_TWITTER"
+msgstr "Post"
+
+msgid "IDS_EMAIL_BODY_MICROSOFT_EXCHANGE_ACTIVESYNC"
+msgstr "Microsoft Exchange ActiveSync"
+
+msgid "IDS_EMAIL_BODY_MAXIMUM_NUMBER_OF_EMAIL_ACCOUNTS_REACHED"
+msgstr "Достигнат е максималниот број сметки за email."
+
+msgid "IDS_MA_MBODY_AUTO_SYNC"
+msgstr "Автоматска синхронизација"
+
+msgid "IDS_MA_HEADER_ADD_ACCOUNT"
+msgstr "Додај сметка"
+
+msgid "IDS_MA_HEADER_ACCOUNTS"
+msgstr "Сметки"
+
+msgid "IDS_MA_BUTTON_OK"
+msgstr "OK"
+
+msgid "IDS_MA_BODY_YOU_CAN_MANAGE_YOUR_CONTACTS_CALENDARS_EMAIL_AND_IM_ACCOUNTS"
+msgstr "Може да ги уредувате своите контакти, календари, email и сметки за ИП."
+
+msgid "IDS_MA_BODY_SIGNED_IN"
+msgstr "Запишани сте."
+
+msgid "IDS_PB_TAB_CONTACTS"
+msgstr "Именик"
+
+msgid "IDS_PB_BODY_ADD_ACCOUNT"
+msgstr "Додај сметка"
+
+msgid "IDS_ST_BODY_VIDEOS"
+msgstr "Видео-записи"
+
+msgid "IDS_ST_BODY_MOBILE_TRACKER"
+msgstr "Мобилен локатор"
+
+msgid "IDS_ST_BODY_ACCOUNT_LIST"
+msgstr "Листа сметки"
+
+msgid "IDS_SYNCML_BODY_SYNC_SERVER"
+msgstr "Сервер за синхронизација"
+
+msgid "IDS_TASK_BODY_TASK"
+msgstr "Задача"
+
+msgid "IDS_HELP_POP_TUTORIAL_COMPLETE"
+msgstr "Упатството е завршено."
+
+msgid "IDS_HELP_BODY_SELECT_A_CLOUD_SERVICE_TO_USE_AND_THEN_SET_UP_AN_ACCOUNT_ONCE_YOU_HAVE_SET_UP_A_SAMSUNG_ACCOUNT_SAVED_MEMOS_WILL_BE_SYNCED_AUTOMATICALLY"
+msgstr "Изберете сервис во облакот што ќе го користите па поставете сметка. Штом ќе поставите сметка Samsung, зачуваните белешки ќе се синхронизираат автоматски."
+
+msgid "IDS_MA_NPBODY_NO_ACCOUNT_PROVIDER_APPS_INSTALLED"
+msgstr "Не се инсталирани апликации за оператор на сметка"
+

@@ -1,0 +1,84 @@
+msgid "IDS_COM_BODY_GALLERY"
+msgstr "Galerija"
+
+msgid "IDS_COM_OPT_S_MEMO"
+msgstr "S Memo"
+
+msgid "IDS_COM_BODY_VOIP_CALL"
+msgstr "Klic VoIP"
+
+msgid "IDS_COM_BODY_S_PLANNER"
+msgstr "S Planner"
+
+msgid "IDS_COM_BODY_SAMSUNG_APPS_T_MAINMENU"
+msgstr "Samsung Apps"
+
+msgid "IDS_COM_BODY_MUSIC"
+msgstr "Glasba"
+
+msgid "IDS_COM_BODY_MESSAGES"
+msgstr "Sporočila"
+
+msgid "IDS_COM_BODY_INTERNET"
+msgstr "Internet"
+
+msgid "IDS_COM_BODY_EMAIL"
+msgstr "E-pošta"
+
+msgid "IDS_TW_BODY_POST_TWITTER"
+msgstr "Objavi"
+
+msgid "IDS_EMAIL_BODY_MICROSOFT_EXCHANGE_ACTIVESYNC"
+msgstr "Microsoft Exchange ActiveSync"
+
+msgid "IDS_EMAIL_BODY_MAXIMUM_NUMBER_OF_EMAIL_ACCOUNTS_REACHED"
+msgstr "Doseženo je največje dovoljeno število računov za e-pošto."
+
+msgid "IDS_MA_MBODY_AUTO_SYNC"
+msgstr "Samodejna sinhronizacija"
+
+msgid "IDS_MA_HEADER_ADD_ACCOUNT"
+msgstr "Dodaj račun"
+
+msgid "IDS_MA_HEADER_ACCOUNTS"
+msgstr "Računi"
+
+msgid "IDS_MA_BUTTON_OK"
+msgstr "V redu"
+
+msgid "IDS_MA_BODY_YOU_CAN_MANAGE_YOUR_CONTACTS_CALENDARS_EMAIL_AND_IM_ACCOUNTS"
+msgstr "Upravljate lahko stike, koledarje, e-pošto in račune za NS."
+
+msgid "IDS_MA_BODY_SIGNED_IN"
+msgstr "Prijava je uspela."
+
+msgid "IDS_PB_TAB_CONTACTS"
+msgstr "Imenik"
+
+msgid "IDS_PB_BODY_ADD_ACCOUNT"
+msgstr "Dodaj račun"
+
+msgid "IDS_ST_BODY_VIDEOS"
+msgstr "Videoposnetki"
+
+msgid "IDS_ST_BODY_MOBILE_TRACKER"
+msgstr "Mobilni sledilnik"
+
+msgid "IDS_ST_BODY_ACCOUNT_LIST"
+msgstr "Seznam računov"
+
+msgid "IDS_SYNCML_BODY_SYNC_SERVER"
+msgstr "Strežnik za sinhronizacijo"
+
+msgid "IDS_TASK_BODY_TASK"
+msgstr "Opravila"
+
+msgid "IDS_HELP_POP_TUTORIAL_COMPLETE"
+msgstr "Vadnica je končana."
+
+msgid "IDS_HELP_BODY_SELECT_A_CLOUD_SERVICE_TO_USE_AND_THEN_SET_UP_AN_ACCOUNT_ONCE_YOU_HAVE_SET_UP_A_SAMSUNG_ACCOUNT_SAVED_MEMOS_WILL_BE_SYNCED_AUTOMATICALLY"
+msgstr "Izberite storitev v oblaku, ki jo želite uporabiti, nato pa nastavite račun. Ko nastavite Samsung račun, se bodo shranjene beležke samodejno sinhronizirale."
+
+msgid "IDS_MA_NPBODY_NO_ACCOUNT_PROVIDER_APPS_INSTALLED"
+msgstr "Nameščena ni nobena aplikacija ponudnika računa"
+

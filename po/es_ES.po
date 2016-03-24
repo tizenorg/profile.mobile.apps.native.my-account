@@ -1,0 +1,84 @@
+msgid "IDS_COM_BODY_GALLERY"
+msgstr "Galería"
+
+msgid "IDS_COM_OPT_S_MEMO"
+msgstr "S Memo"
+
+msgid "IDS_COM_BODY_VOIP_CALL"
+msgstr "Llamada VoIP"
+
+msgid "IDS_COM_BODY_S_PLANNER"
+msgstr "Calendario"
+
+msgid "IDS_COM_BODY_SAMSUNG_APPS_T_MAINMENU"
+msgstr "Samsung GALAXY Apps"
+
+msgid "IDS_COM_BODY_MUSIC"
+msgstr "Música"
+
+msgid "IDS_COM_BODY_MESSAGES"
+msgstr "Mensajes"
+
+msgid "IDS_COM_BODY_INTERNET"
+msgstr "Internet"
+
+msgid "IDS_COM_BODY_EMAIL"
+msgstr "Correo electrónico"
+
+msgid "IDS_TW_BODY_POST_TWITTER"
+msgstr "Actualización"
+
+msgid "IDS_EMAIL_BODY_MICROSOFT_EXCHANGE_ACTIVESYNC"
+msgstr "Microsoft Exchange ActiveSync"
+
+msgid "IDS_EMAIL_BODY_MAXIMUM_NUMBER_OF_EMAIL_ACCOUNTS_REACHED"
+msgstr "Número máximo de cuentas de correo electrónico alcanzado"
+
+msgid "IDS_MA_MBODY_AUTO_SYNC"
+msgstr "Sincr auto"
+
+msgid "IDS_MA_HEADER_ADD_ACCOUNT"
+msgstr "Añadir cuenta"
+
+msgid "IDS_MA_HEADER_ACCOUNTS"
+msgstr "Cuentas"
+
+msgid "IDS_MA_BUTTON_OK"
+msgstr "Aceptar"
+
+msgid "IDS_MA_BODY_YOU_CAN_MANAGE_YOUR_CONTACTS_CALENDARS_EMAIL_AND_IM_ACCOUNTS"
+msgstr "Puede gestionar sus contactos, calendarios, correo electrónico y cuentas de MI"
+
+msgid "IDS_MA_BODY_SIGNED_IN"
+msgstr "Sesión iniciada"
+
+msgid "IDS_PB_TAB_CONTACTS"
+msgstr "Contactos"
+
+msgid "IDS_PB_BODY_ADD_ACCOUNT"
+msgstr "Añadir cuenta"
+
+msgid "IDS_ST_BODY_VIDEOS"
+msgstr "Vídeos"
+
+msgid "IDS_ST_BODY_MOBILE_TRACKER"
+msgstr "Rastreador móvil"
+
+msgid "IDS_ST_BODY_ACCOUNT_LIST"
+msgstr "Lista de cuentas"
+
+msgid "IDS_SYNCML_BODY_SYNC_SERVER"
+msgstr "Servidor de sincronización"
+
+msgid "IDS_TASK_BODY_TASK"
+msgstr "Tarea"
+
+msgid "IDS_HELP_POP_TUTORIAL_COMPLETE"
+msgstr "Tutorial finalizado."
+
+msgid "IDS_HELP_BODY_SELECT_A_CLOUD_SERVICE_TO_USE_AND_THEN_SET_UP_AN_ACCOUNT_ONCE_YOU_HAVE_SET_UP_A_SAMSUNG_ACCOUNT_SAVED_MEMOS_WILL_BE_SYNCED_AUTOMATICALLY"
+msgstr "Seleccione un servicio en la nube para usarlo y configure una cuenta. Una vez que haya configurado una Samsung account, las notas guardadas se sincronizarán automáticamente."
+
+msgid "IDS_MA_NPBODY_NO_ACCOUNT_PROVIDER_APPS_INSTALLED"
+msgstr "No hay ninguna aplicación del proveedor de cuentas instalada"
+

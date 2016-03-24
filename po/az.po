@@ -1,0 +1,84 @@
+msgid "IDS_COM_BODY_GALLERY"
+msgstr "Qalereya"
+
+msgid "IDS_COM_OPT_S_MEMO"
+msgstr "S Memo"
+
+msgid "IDS_COM_BODY_VOIP_CALL"
+msgstr "VoIP zəngi"
+
+msgid "IDS_COM_BODY_S_PLANNER"
+msgstr "S Planner"
+
+msgid "IDS_COM_BODY_SAMSUNG_APPS_T_MAINMENU"
+msgstr "Samsung Apps"
+
+msgid "IDS_COM_BODY_MUSIC"
+msgstr "Musiqi"
+
+msgid "IDS_COM_BODY_MESSAGES"
+msgstr "Mesajlar"
+
+msgid "IDS_COM_BODY_INTERNET"
+msgstr "İnternet"
+
+msgid "IDS_COM_BODY_EMAIL"
+msgstr "Elektron poçtlar"
+
+msgid "IDS_TW_BODY_POST_TWITTER"
+msgstr "Dərc et"
+
+msgid "IDS_EMAIL_BODY_MICROSOFT_EXCHANGE_ACTIVESYNC"
+msgstr "Microsoft Exchange ActiveSync"
+
+msgid "IDS_EMAIL_BODY_MAXIMUM_NUMBER_OF_EMAIL_ACCOUNTS_REACHED"
+msgstr "E-poçt hesablarının sayı maksimuma çatmışdır."
+
+msgid "IDS_MA_MBODY_AUTO_SYNC"
+msgstr "Avto-sinxronlaşma"
+
+msgid "IDS_MA_HEADER_ADD_ACCOUNT"
+msgstr "Hesab əlavə edin"
+
+msgid "IDS_MA_HEADER_ACCOUNTS"
+msgstr "Hesablar"
+
+msgid "IDS_MA_BUTTON_OK"
+msgstr "OK"
+
+msgid "IDS_MA_BODY_YOU_CAN_MANAGE_YOUR_CONTACTS_CALENDARS_EMAIL_AND_IM_ACCOUNTS"
+msgstr "Siz kontaktlarınızı, təqvimlərinizi, e-poçt və IM hesablarınızı idarə edə bilərsiniz."
+
+msgid "IDS_MA_BODY_SIGNED_IN"
+msgstr "Daxil olundu."
+
+msgid "IDS_PB_TAB_CONTACTS"
+msgstr "Adlar"
+
+msgid "IDS_PB_BODY_ADD_ACCOUNT"
+msgstr "Hesab əlavə edin"
+
+msgid "IDS_ST_BODY_VIDEOS"
+msgstr "Video"
+
+msgid "IDS_ST_BODY_MOBILE_TRACKER"
+msgstr "Mobil izləmə sistemi"
+
+msgid "IDS_ST_BODY_ACCOUNT_LIST"
+msgstr "Hesab siyahısı"
+
+msgid "IDS_SYNCML_BODY_SYNC_SERVER"
+msgstr "Sinxronlaşdırma serveri"
+
+msgid "IDS_TASK_BODY_TASK"
+msgstr "Tapşırıq"
+
+msgid "IDS_HELP_POP_TUTORIAL_COMPLETE"
+msgstr "Təlimatlar tamamlandı."
+
+msgid "IDS_HELP_BODY_SELECT_A_CLOUD_SERVICE_TO_USE_AND_THEN_SET_UP_AN_ACCOUNT_ONCE_YOU_HAVE_SET_UP_A_SAMSUNG_ACCOUNT_SAVED_MEMOS_WILL_BE_SYNCED_AUTOMATICALLY"
+msgstr "Hesabdan istifadə etmək və onu tənzimləmək üçün bulud xidmətini seçin. Siz bir dəfə Samsung hesabını köklədikdən sonra saxlanmış qeydlər avtomatik sinxronlaşdırılacaq."
+
+msgid "IDS_MA_NPBODY_NO_ACCOUNT_PROVIDER_APPS_INSTALLED"
+msgstr "Hesab provayderi proqramları quraşdırılmamışdır"
+

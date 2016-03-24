@@ -1,0 +1,84 @@
+msgid "IDS_COM_BODY_GALLERY"
+msgstr "Galleri"
+
+msgid "IDS_COM_OPT_S_MEMO"
+msgstr "S Memo"
+
+msgid "IDS_COM_BODY_VOIP_CALL"
+msgstr "VoIP-samtal"
+
+msgid "IDS_COM_BODY_S_PLANNER"
+msgstr "S Kalender"
+
+msgid "IDS_COM_BODY_SAMSUNG_APPS_T_MAINMENU"
+msgstr "Samsung Apps"
+
+msgid "IDS_COM_BODY_MUSIC"
+msgstr "Musik"
+
+msgid "IDS_COM_BODY_MESSAGES"
+msgstr "Meddelanden"
+
+msgid "IDS_COM_BODY_INTERNET"
+msgstr "Internet"
+
+msgid "IDS_COM_BODY_EMAIL"
+msgstr "E-post"
+
+msgid "IDS_TW_BODY_POST_TWITTER"
+msgstr "Posta"
+
+msgid "IDS_EMAIL_BODY_MICROSOFT_EXCHANGE_ACTIVESYNC"
+msgstr "Microsoft Exchange ActiveSync"
+
+msgid "IDS_EMAIL_BODY_MAXIMUM_NUMBER_OF_EMAIL_ACCOUNTS_REACHED"
+msgstr "Högsta antal e-postkonton har uppnåtts."
+
+msgid "IDS_MA_MBODY_AUTO_SYNC"
+msgstr "Autosynkning"
+
+msgid "IDS_MA_HEADER_ADD_ACCOUNT"
+msgstr "Lägg till konto"
+
+msgid "IDS_MA_HEADER_ACCOUNTS"
+msgstr "Konton"
+
+msgid "IDS_MA_BUTTON_OK"
+msgstr "OK"
+
+msgid "IDS_MA_BODY_YOU_CAN_MANAGE_YOUR_CONTACTS_CALENDARS_EMAIL_AND_IM_ACCOUNTS"
+msgstr "Du kan hantera kontakter, kalender, e-post och IM-konton."
+
+msgid "IDS_MA_BODY_SIGNED_IN"
+msgstr "Inloggad."
+
+msgid "IDS_PB_TAB_CONTACTS"
+msgstr "Kontakter"
+
+msgid "IDS_PB_BODY_ADD_ACCOUNT"
+msgstr "Lägg till konto"
+
+msgid "IDS_ST_BODY_VIDEOS"
+msgstr "Videoklipp"
+
+msgid "IDS_ST_BODY_MOBILE_TRACKER"
+msgstr "Stöldspårning"
+
+msgid "IDS_ST_BODY_ACCOUNT_LIST"
+msgstr "Kontolista"
+
+msgid "IDS_SYNCML_BODY_SYNC_SERVER"
+msgstr "Synkroniseringsserver"
+
+msgid "IDS_TASK_BODY_TASK"
+msgstr "Uppgift"
+
+msgid "IDS_HELP_POP_TUTORIAL_COMPLETE"
+msgstr "Introduktionen är slutförd."
+
+msgid "IDS_HELP_BODY_SELECT_A_CLOUD_SERVICE_TO_USE_AND_THEN_SET_UP_AN_ACCOUNT_ONCE_YOU_HAVE_SET_UP_A_SAMSUNG_ACCOUNT_SAVED_MEMOS_WILL_BE_SYNCED_AUTOMATICALLY"
+msgstr "Välj en molntjänst som du vill använda och skapa sedan ett konto. När du har skapat ett Samsung account kommer sparade memon att synkroniseras automatiskt."
+
+msgid "IDS_MA_NPBODY_NO_ACCOUNT_PROVIDER_APPS_INSTALLED"
+msgstr "Inga kontoleverantörsprogram har installerats"
+

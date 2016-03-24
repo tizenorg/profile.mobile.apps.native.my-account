@@ -1,0 +1,84 @@
+msgid "IDS_COM_BODY_GALLERY"
+msgstr "Gailearaí"
+
+msgid "IDS_COM_OPT_S_MEMO"
+msgstr "S Memo"
+
+msgid "IDS_COM_BODY_VOIP_CALL"
+msgstr "Glao VoIP"
+
+msgid "IDS_COM_BODY_S_PLANNER"
+msgstr "S Phleanálaí"
+
+msgid "IDS_COM_BODY_SAMSUNG_APPS_T_MAINMENU"
+msgstr "Samsung Apps"
+
+msgid "IDS_COM_BODY_MUSIC"
+msgstr "Ceol"
+
+msgid "IDS_COM_BODY_MESSAGES"
+msgstr "Teachtaireachtaí"
+
+msgid "IDS_COM_BODY_INTERNET"
+msgstr "An tIdirlíon"
+
+msgid "IDS_COM_BODY_EMAIL"
+msgstr "R-phost"
+
+msgid "IDS_TW_BODY_POST_TWITTER"
+msgstr "Post"
+
+msgid "IDS_EMAIL_BODY_MICROSOFT_EXCHANGE_ACTIVESYNC"
+msgstr "Microsoft Exchange ActiveSync"
+
+msgid "IDS_EMAIL_BODY_MAXIMUM_NUMBER_OF_EMAIL_ACCOUNTS_REACHED"
+msgstr "Uaslíon na gcuntas r-phost bainte amach."
+
+msgid "IDS_MA_MBODY_AUTO_SYNC"
+msgstr "Uathshioncronú"
+
+msgid "IDS_MA_HEADER_ADD_ACCOUNT"
+msgstr "Cuir cuntas leis"
+
+msgid "IDS_MA_HEADER_ACCOUNTS"
+msgstr "Cuntais"
+
+msgid "IDS_MA_BUTTON_OK"
+msgstr "OK"
+
+msgid "IDS_MA_BODY_YOU_CAN_MANAGE_YOUR_CONTACTS_CALENDARS_EMAIL_AND_IM_ACCOUNTS"
+msgstr "Is féidir leat do theagmhálaithe, féilirí, ríomhphost agus cuntais IM a bhainistiú"
+
+msgid "IDS_MA_BODY_SIGNED_IN"
+msgstr "Sínithe isteach."
+
+msgid "IDS_PB_TAB_CONTACTS"
+msgstr "Teagmhálaithe"
+
+msgid "IDS_PB_BODY_ADD_ACCOUNT"
+msgstr "Cuir cuntas leis"
+
+msgid "IDS_ST_BODY_VIDEOS"
+msgstr "Físeáin"
+
+msgid "IDS_ST_BODY_MOBILE_TRACKER"
+msgstr "Rianaire taistil"
+
+msgid "IDS_ST_BODY_ACCOUNT_LIST"
+msgstr "Liosta na gcuntas"
+
+msgid "IDS_SYNCML_BODY_SYNC_SERVER"
+msgstr "Freastalaí sioncronaithe"
+
+msgid "IDS_TASK_BODY_TASK"
+msgstr "Tasc"
+
+msgid "IDS_HELP_POP_TUTORIAL_COMPLETE"
+msgstr "Ceacht teagaisc curtha i gcrích."
+
+msgid "IDS_HELP_BODY_SELECT_A_CLOUD_SERVICE_TO_USE_AND_THEN_SET_UP_AN_ACCOUNT_ONCE_YOU_HAVE_SET_UP_A_SAMSUNG_ACCOUNT_SAVED_MEMOS_WILL_BE_SYNCED_AUTOMATICALLY"
+msgstr "Roghnaigh néalseirbhís le húsáid agus ansin socraigh cuntas. Nuair atá an cuntas Samsung socraithe agat, déanfar meabhráin atá sábháilte a uathshioncronú."
+
+msgid "IDS_MA_NPBODY_NO_ACCOUNT_PROVIDER_APPS_INSTALLED"
+msgstr "Níl feidhmchlár i gcomhair soláthraí seirbhíse cuntas suiteáilte"
+

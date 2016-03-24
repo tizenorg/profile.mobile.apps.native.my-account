@@ -1,0 +1,132 @@
+collections {
+
+	group {
+		name:"account_list";
+
+		parts
+		{
+
+			part
+			{
+				name: "accountlist.genlist";
+				type: SWALLOW;
+				description
+				{
+					state: "default" 0.0;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+				}
+			}
+
+			part
+			{
+				name: "elm.swallow.label";
+				type: SWALLOW;
+				description
+				{
+					state: "default" 0.0;
+					rel1 { relative: 0.03 0.25;}
+					rel2 { relative: 1.0 0.35; }
+				}
+			}
+
+		}
+	}
+
+	group {
+	name:"sentinel";
+
+	parts
+	{
+		part
+		{
+			name: "sentinel.content";
+			type: SWALLOW;
+			description
+			{
+				state: "default" 0.0;
+				color: 0 0 0 0;
+				rel1 { relative: 0.0 0.0; }
+				rel2 { relative: 1.0 1.0; }
+			}
+		}
+
+		part
+		{
+			name: "sentinel.help.label";
+			type: SWALLOW;
+			description
+			{
+				state: "default" 0.0;
+				rel1 { relative: 0.03 0.0;}
+				rel2 { relative: 1.0 0.25; }
+			}
+		}
+
+		part
+		{
+			name: "sentinel.sp.icon";
+			type: SWALLOW;
+			description
+			{
+				state: "default" 0.0;
+				rel1 { relative: 0.03 0.25; }
+				rel2 { relative: 0.08 0.32; }
+			}
+		}
+
+		part
+		{
+			name: "sentinel.spname.label";
+			type: SWALLOW;
+			description
+			{
+				state: "default" 0.0;
+				rel1 { relative: 0.08 0.25;}
+				rel2 { relative: 0.9 0.32; }
+			}
+		}
+
+		part
+		{
+			name: "sentinel.addsamsung.icon";
+			type: SWALLOW;
+			description
+			{
+				state: "default" 0.0;
+				rel1 { relative: 0.9 0.25; }
+				rel2 { relative: 1.0 0.32; }
+			}
+		}
+
+
+		part
+		{
+			name: "sentinel.description.label";
+			type: SWALLOW;
+			description
+			{
+				state: "default" 0.0;
+				rel1 { relative: 0.03 0.32;}
+				rel2 { relative: 1.0 0.62; }
+			}
+		}
+
+		part
+		{
+			name: "sentinel.addaccount.button";
+			type: SWALLOW;
+			description
+			{
+				state: "default" 0.0;
+				rel1 { relative: 0.03 0.62;}
+				rel2 { relative: 0.97 0.72; }
+			}
+		}
+
+
+	}
+}
+
+}
+
