@@ -1,0 +1,84 @@
+msgid "IDS_COM_BODY_GALLERY"
+msgstr "相册"
+
+msgid "IDS_COM_OPT_S_MEMO"
+msgstr "S 备忘录"
+
+msgid "IDS_COM_BODY_VOIP_CALL"
+msgstr "VoIP 电话"
+
+msgid "IDS_COM_BODY_S_PLANNER"
+msgstr "S 日历"
+
+msgid "IDS_COM_BODY_SAMSUNG_APPS_T_MAINMENU"
+msgstr "Samsung Apps"
+
+msgid "IDS_COM_BODY_MUSIC"
+msgstr "音乐"
+
+msgid "IDS_COM_BODY_MESSAGES"
+msgstr "信息"
+
+msgid "IDS_COM_BODY_INTERNET"
+msgstr "互联网"
+
+msgid "IDS_COM_BODY_EMAIL"
+msgstr "电子邮件"
+
+msgid "IDS_TW_BODY_POST_TWITTER"
+msgstr "发贴"
+
+msgid "IDS_EMAIL_BODY_MICROSOFT_EXCHANGE_ACTIVESYNC"
+msgstr "微软Exchange ActiveSync 账户"
+
+msgid "IDS_EMAIL_BODY_MAXIMUM_NUMBER_OF_EMAIL_ACCOUNTS_REACHED"
+msgstr "已达到电子邮件帐户的数量上限。"
+
+msgid "IDS_MA_MBODY_AUTO_SYNC"
+msgstr "自动同步"
+
+msgid "IDS_MA_HEADER_ADD_ACCOUNT"
+msgstr "添加账户"
+
+msgid "IDS_MA_HEADER_ACCOUNTS"
+msgstr "账户"
+
+msgid "IDS_MA_BUTTON_OK"
+msgstr "确定"
+
+msgid "IDS_MA_BODY_YOU_CAN_MANAGE_YOUR_CONTACTS_CALENDARS_EMAIL_AND_IM_ACCOUNTS"
+msgstr "您可管理您的联系人、日历、电子邮件和 IM 账户。"
+
+msgid "IDS_MA_BODY_SIGNED_IN"
+msgstr "已登录"
+
+msgid "IDS_PB_TAB_CONTACTS"
+msgstr "联系人"
+
+msgid "IDS_PB_BODY_ADD_ACCOUNT"
+msgstr "添加账户"
+
+msgid "IDS_ST_BODY_VIDEOS"
+msgstr "视频"
+
+msgid "IDS_ST_BODY_MOBILE_TRACKER"
+msgstr "手机追踪"
+
+msgid "IDS_ST_BODY_ACCOUNT_LIST"
+msgstr "账户列表"
+
+msgid "IDS_SYNCML_BODY_SYNC_SERVER"
+msgstr "同步服务器"
+
+msgid "IDS_TASK_BODY_TASK"
+msgstr "任务"
+
+msgid "IDS_HELP_POP_TUTORIAL_COMPLETE"
+msgstr "教程完成"
+
+msgid "IDS_HELP_BODY_SELECT_A_CLOUD_SERVICE_TO_USE_AND_THEN_SET_UP_AN_ACCOUNT_ONCE_YOU_HAVE_SET_UP_A_SAMSUNG_ACCOUNT_SAVED_MEMOS_WILL_BE_SYNCED_AUTOMATICALLY"
+msgstr "选择要使用的云服务，然后设置账户。一旦您设置了三星账户，已保存的备忘录将自动同步。"
+
+msgid "IDS_MA_NPBODY_NO_ACCOUNT_PROVIDER_APPS_INSTALLED"
+msgstr "未安装账户提供商应用程序"
+

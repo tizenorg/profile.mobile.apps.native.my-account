@@ -1,0 +1,84 @@
+msgid "IDS_COM_BODY_GALLERY"
+msgstr "Galerie"
+
+msgid "IDS_COM_OPT_S_MEMO"
+msgstr "S Poznámka"
+
+msgid "IDS_COM_BODY_VOIP_CALL"
+msgstr "Hovor VoIP"
+
+msgid "IDS_COM_BODY_S_PLANNER"
+msgstr "S Plánovač"
+
+msgid "IDS_COM_BODY_SAMSUNG_APPS_T_MAINMENU"
+msgstr "Samsung Apps"
+
+msgid "IDS_COM_BODY_MUSIC"
+msgstr "Hudba"
+
+msgid "IDS_COM_BODY_MESSAGES"
+msgstr "Zprávy"
+
+msgid "IDS_COM_BODY_INTERNET"
+msgstr "Internet"
+
+msgid "IDS_COM_BODY_EMAIL"
+msgstr "E-mail"
+
+msgid "IDS_TW_BODY_POST_TWITTER"
+msgstr "Vystavit"
+
+msgid "IDS_EMAIL_BODY_MICROSOFT_EXCHANGE_ACTIVESYNC"
+msgstr "Microsoft Exchange ActiveSync"
+
+msgid "IDS_EMAIL_BODY_MAXIMUM_NUMBER_OF_EMAIL_ACCOUNTS_REACHED"
+msgstr "Bylo dosaženo maximálního počtu e-mailových účtů."
+
+msgid "IDS_MA_MBODY_AUTO_SYNC"
+msgstr "Automaticky synch."
+
+msgid "IDS_MA_HEADER_ADD_ACCOUNT"
+msgstr "Přidat účet"
+
+msgid "IDS_MA_HEADER_ACCOUNTS"
+msgstr "Účty"
+
+msgid "IDS_MA_BUTTON_OK"
+msgstr "OK"
+
+msgid "IDS_MA_BODY_YOU_CAN_MANAGE_YOUR_CONTACTS_CALENDARS_EMAIL_AND_IM_ACCOUNTS"
+msgstr "Můžete spravovat své kontakty, kalendáře, e-maily a chatové účty."
+
+msgid "IDS_MA_BODY_SIGNED_IN"
+msgstr "Jste přihlášeni."
+
+msgid "IDS_PB_TAB_CONTACTS"
+msgstr "Kontakty"
+
+msgid "IDS_PB_BODY_ADD_ACCOUNT"
+msgstr "Přidat účet"
+
+msgid "IDS_ST_BODY_VIDEOS"
+msgstr "Videa"
+
+msgid "IDS_ST_BODY_MOBILE_TRACKER"
+msgstr "Mobilní stopař"
+
+msgid "IDS_ST_BODY_ACCOUNT_LIST"
+msgstr "Seznam účtů"
+
+msgid "IDS_SYNCML_BODY_SYNC_SERVER"
+msgstr "Synchronizační server"
+
+msgid "IDS_TASK_BODY_TASK"
+msgstr "Úkol"
+
+msgid "IDS_HELP_POP_TUTORIAL_COMPLETE"
+msgstr "Kurz byl dokončen."
+
+msgid "IDS_HELP_BODY_SELECT_A_CLOUD_SERVICE_TO_USE_AND_THEN_SET_UP_AN_ACCOUNT_ONCE_YOU_HAVE_SET_UP_A_SAMSUNG_ACCOUNT_SAVED_MEMOS_WILL_BE_SYNCED_AUTOMATICALLY"
+msgstr "Vyberte službu cloud, kterou chcete použít, a nastavte účet. Jakmile nastavíte Samsung účet, uložené poznámky budou automaticky synchronizovány."
+
+msgid "IDS_MA_NPBODY_NO_ACCOUNT_PROVIDER_APPS_INSTALLED"
+msgstr "Nejsou instalovány žádné aplikace poskytovatele účtu"
+

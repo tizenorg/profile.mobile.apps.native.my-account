@@ -1,0 +1,84 @@
+msgid "IDS_COM_BODY_GALLERY"
+msgstr "Галерея"
+
+msgid "IDS_COM_OPT_S_MEMO"
+msgstr "S Memo"
+
+msgid "IDS_COM_BODY_VOIP_CALL"
+msgstr "Виклик VoIP"
+
+msgid "IDS_COM_BODY_S_PLANNER"
+msgstr "S Planner"
+
+msgid "IDS_COM_BODY_SAMSUNG_APPS_T_MAINMENU"
+msgstr "Samsung Apps"
+
+msgid "IDS_COM_BODY_MUSIC"
+msgstr "Музика"
+
+msgid "IDS_COM_BODY_MESSAGES"
+msgstr "Повідомлення"
+
+msgid "IDS_COM_BODY_INTERNET"
+msgstr "Інтернет"
+
+msgid "IDS_COM_BODY_EMAIL"
+msgstr "Email"
+
+msgid "IDS_TW_BODY_POST_TWITTER"
+msgstr "Post"
+
+msgid "IDS_EMAIL_BODY_MICROSOFT_EXCHANGE_ACTIVESYNC"
+msgstr "Microsoft Exchange ActiveSync"
+
+msgid "IDS_EMAIL_BODY_MAXIMUM_NUMBER_OF_EMAIL_ACCOUNTS_REACHED"
+msgstr "Досягнуто максимальної кількості облікових записів Email."
+
+msgid "IDS_MA_MBODY_AUTO_SYNC"
+msgstr "Автосинхронізація"
+
+msgid "IDS_MA_HEADER_ADD_ACCOUNT"
+msgstr "Додати обліковий запис"
+
+msgid "IDS_MA_HEADER_ACCOUNTS"
+msgstr "Облікові записи"
+
+msgid "IDS_MA_BUTTON_OK"
+msgstr "OK"
+
+msgid "IDS_MA_BODY_YOU_CAN_MANAGE_YOUR_CONTACTS_CALENDARS_EMAIL_AND_IM_ACCOUNTS"
+msgstr "Можна керувати контактами, календарями, повідомленнями Email та обліковими записами служби миттєвих повідомлень."
+
+msgid "IDS_MA_BODY_SIGNED_IN"
+msgstr "Зареєстровано."
+
+msgid "IDS_PB_TAB_CONTACTS"
+msgstr "Контакти"
+
+msgid "IDS_PB_BODY_ADD_ACCOUNT"
+msgstr "Додати обліковий запис"
+
+msgid "IDS_ST_BODY_VIDEOS"
+msgstr "Відео"
+
+msgid "IDS_ST_BODY_MOBILE_TRACKER"
+msgstr "Мобільна сигналізація"
+
+msgid "IDS_ST_BODY_ACCOUNT_LIST"
+msgstr "Список облікових записів"
+
+msgid "IDS_SYNCML_BODY_SYNC_SERVER"
+msgstr "Сервер синхронізації"
+
+msgid "IDS_TASK_BODY_TASK"
+msgstr "Завдання"
+
+msgid "IDS_HELP_POP_TUTORIAL_COMPLETE"
+msgstr "Посібник завершено."
+
+msgid "IDS_HELP_BODY_SELECT_A_CLOUD_SERVICE_TO_USE_AND_THEN_SET_UP_AN_ACCOUNT_ONCE_YOU_HAVE_SET_UP_A_SAMSUNG_ACCOUNT_SAVED_MEMOS_WILL_BE_SYNCED_AUTOMATICALLY"
+msgstr "Виберіть потрібну хмарну службу, а потім настройте обліковий запис. Після настроювання облікового запису Samsung збережені нагадування буде автоматично синхронізовано."
+
+msgid "IDS_MA_NPBODY_NO_ACCOUNT_PROVIDER_APPS_INSTALLED"
+msgstr "Немає установл. прогр. облік. запису постачальника"
+

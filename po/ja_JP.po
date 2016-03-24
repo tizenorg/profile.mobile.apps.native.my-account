@@ -1,0 +1,84 @@
+msgid "IDS_COM_BODY_GALLERY"
+msgstr "ギャラリー"
+
+msgid "IDS_COM_OPT_S_MEMO"
+msgstr "Sメモ"
+
+msgid "IDS_COM_BODY_VOIP_CALL"
+msgstr "VoIP電話"
+
+msgid "IDS_COM_BODY_S_PLANNER"
+msgstr "Sプランナー"
+
+msgid "IDS_COM_BODY_SAMSUNG_APPS_T_MAINMENU"
+msgstr "Samsung Apps"
+
+msgid "IDS_COM_BODY_MUSIC"
+msgstr "音楽"
+
+msgid "IDS_COM_BODY_MESSAGES"
+msgstr "メッセージ"
+
+msgid "IDS_COM_BODY_INTERNET"
+msgstr "ブラウザ"
+
+msgid "IDS_COM_BODY_EMAIL"
+msgstr "Eメール"
+
+msgid "IDS_TW_BODY_POST_TWITTER"
+msgstr "投稿"
+
+msgid "IDS_EMAIL_BODY_MICROSOFT_EXCHANGE_ACTIVESYNC"
+msgstr "Microsoft Exchange ActiveSync"
+
+msgid "IDS_EMAIL_BODY_MAXIMUM_NUMBER_OF_EMAIL_ACCOUNTS_REACHED"
+msgstr "最大メールアカウント数に達しました。"
+
+msgid "IDS_MA_MBODY_AUTO_SYNC"
+msgstr "自動同期"
+
+msgid "IDS_MA_HEADER_ADD_ACCOUNT"
+msgstr "アカウント追加"
+
+msgid "IDS_MA_HEADER_ACCOUNTS"
+msgstr "アカウント"
+
+msgid "IDS_MA_BUTTON_OK"
+msgstr "OK"
+
+msgid "IDS_MA_BODY_YOU_CAN_MANAGE_YOUR_CONTACTS_CALENDARS_EMAIL_AND_IM_ACCOUNTS"
+msgstr "連絡先、カレンダー、Eメール、およびIMアカウントを管理できます。"
+
+msgid "IDS_MA_BODY_SIGNED_IN"
+msgstr "サインインしました。"
+
+msgid "IDS_PB_TAB_CONTACTS"
+msgstr "電話帳"
+
+msgid "IDS_PB_BODY_ADD_ACCOUNT"
+msgstr "アカウント追加"
+
+msgid "IDS_ST_BODY_VIDEOS"
+msgstr "動画"
+
+msgid "IDS_ST_BODY_MOBILE_TRACKER"
+msgstr "モバイルトラッカー"
+
+msgid "IDS_ST_BODY_ACCOUNT_LIST"
+msgstr "アカウントリスト"
+
+msgid "IDS_SYNCML_BODY_SYNC_SERVER"
+msgstr "同期サーバー"
+
+msgid "IDS_TASK_BODY_TASK"
+msgstr "タスク"
+
+msgid "IDS_HELP_POP_TUTORIAL_COMPLETE"
+msgstr "チュートリアルが完了しました。"
+
+msgid "IDS_HELP_BODY_SELECT_A_CLOUD_SERVICE_TO_USE_AND_THEN_SET_UP_AN_ACCOUNT_ONCE_YOU_HAVE_SET_UP_A_SAMSUNG_ACCOUNT_SAVED_MEMOS_WILL_BE_SYNCED_AUTOMATICALLY"
+msgstr "使用するクラウドサービスを選択した後、アカウントを設定します。一度Samsungアカウントを設定すると、保存されたメモは自動的に同期されます。"
+
+msgid "IDS_MA_NPBODY_NO_ACCOUNT_PROVIDER_APPS_INSTALLED"
+msgstr "アカウントプロバイダアプリがインストールされていません"
+

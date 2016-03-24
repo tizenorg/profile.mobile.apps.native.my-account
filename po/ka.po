@@ -1,0 +1,84 @@
+msgid "IDS_COM_BODY_GALLERY"
+msgstr "გალერეა"
+
+msgid "IDS_COM_OPT_S_MEMO"
+msgstr "S Memo"
+
+msgid "IDS_COM_BODY_VOIP_CALL"
+msgstr "VoIP ზარი"
+
+msgid "IDS_COM_BODY_S_PLANNER"
+msgstr "S Planner"
+
+msgid "IDS_COM_BODY_SAMSUNG_APPS_T_MAINMENU"
+msgstr "Samsung Apps"
+
+msgid "IDS_COM_BODY_MUSIC"
+msgstr "მუსიკა"
+
+msgid "IDS_COM_BODY_MESSAGES"
+msgstr "შეტყობინებები"
+
+msgid "IDS_COM_BODY_INTERNET"
+msgstr "ინტერნეტი"
+
+msgid "IDS_COM_BODY_EMAIL"
+msgstr "ელ-ფოსტა"
+
+msgid "IDS_TW_BODY_POST_TWITTER"
+msgstr "გაგზავნა"
+
+msgid "IDS_EMAIL_BODY_MICROSOFT_EXCHANGE_ACTIVESYNC"
+msgstr "Microsoft Exchange ActiveSync"
+
+msgid "IDS_EMAIL_BODY_MAXIMUM_NUMBER_OF_EMAIL_ACCOUNTS_REACHED"
+msgstr "მიღწეულია ელ.ფოსტის ანგარიშების მაქსიმალური რაოდენობა."
+
+msgid "IDS_MA_MBODY_AUTO_SYNC"
+msgstr "ავტომატური სინქრონიზაცია"
+
+msgid "IDS_MA_HEADER_ADD_ACCOUNT"
+msgstr "ანგარიშის დამატება"
+
+msgid "IDS_MA_HEADER_ACCOUNTS"
+msgstr "ანგარიშები"
+
+msgid "IDS_MA_BUTTON_OK"
+msgstr "კი"
+
+msgid "IDS_MA_BODY_YOU_CAN_MANAGE_YOUR_CONTACTS_CALENDARS_EMAIL_AND_IM_ACCOUNTS"
+msgstr "შეგიძლიათ დაალაგოთ კონტაქტები, კალენდრები, ელ.ფოსტა და მესინჯერის ანგარიშები."
+
+msgid "IDS_MA_BODY_SIGNED_IN"
+msgstr "შესვლა."
+
+msgid "IDS_PB_TAB_CONTACTS"
+msgstr "კონტაქტები"
+
+msgid "IDS_PB_BODY_ADD_ACCOUNT"
+msgstr "ანგარიშის დამატება"
+
+msgid "IDS_ST_BODY_VIDEOS"
+msgstr "ვიდეოები"
+
+msgid "IDS_ST_BODY_MOBILE_TRACKER"
+msgstr "მობილურის მზვერავი"
+
+msgid "IDS_ST_BODY_ACCOUNT_LIST"
+msgstr "ანგარიშების სია"
+
+msgid "IDS_SYNCML_BODY_SYNC_SERVER"
+msgstr "სინქრონიზაციის სერვერი"
+
+msgid "IDS_TASK_BODY_TASK"
+msgstr "დავალება"
+
+msgid "IDS_HELP_POP_TUTORIAL_COMPLETE"
+msgstr "სახელმძღვანელო დასრულდა."
+
+msgid "IDS_HELP_BODY_SELECT_A_CLOUD_SERVICE_TO_USE_AND_THEN_SET_UP_AN_ACCOUNT_ONCE_YOU_HAVE_SET_UP_A_SAMSUNG_ACCOUNT_SAVED_MEMOS_WILL_BE_SYNCED_AUTOMATICALLY"
+msgstr "აირჩიეთ გამოსაყენებელი გლობალური ქსელის სერვისი და შემდეგ დააყენეთ ანგარიში. Samsung ანგარიშის დაყენების შემდეგ, შენახული შეხსენებები ავტომატურად დასინქრონდება."
+
+msgid "IDS_MA_NPBODY_NO_ACCOUNT_PROVIDER_APPS_INSTALLED"
+msgstr "ანგარიშის მომწოდებელი აპლიკაციები არ არის დაინსტალირებული"
+

@@ -1,0 +1,84 @@
+msgid "IDS_COM_BODY_GALLERY"
+msgstr "Galeria"
+
+msgid "IDS_COM_OPT_S_MEMO"
+msgstr "S Notatka"
+
+msgid "IDS_COM_BODY_VOIP_CALL"
+msgstr "Połączenie VoIP"
+
+msgid "IDS_COM_BODY_S_PLANNER"
+msgstr "S Terminarz"
+
+msgid "IDS_COM_BODY_SAMSUNG_APPS_T_MAINMENU"
+msgstr "Samsung Apps"
+
+msgid "IDS_COM_BODY_MUSIC"
+msgstr "Muzyka"
+
+msgid "IDS_COM_BODY_MESSAGES"
+msgstr "Wiadomości"
+
+msgid "IDS_COM_BODY_INTERNET"
+msgstr "Internet"
+
+msgid "IDS_COM_BODY_EMAIL"
+msgstr "E-mail"
+
+msgid "IDS_TW_BODY_POST_TWITTER"
+msgstr "Publikuj"
+
+msgid "IDS_EMAIL_BODY_MICROSOFT_EXCHANGE_ACTIVESYNC"
+msgstr "Microsoft Exchange ActiveSync"
+
+msgid "IDS_EMAIL_BODY_MAXIMUM_NUMBER_OF_EMAIL_ACCOUNTS_REACHED"
+msgstr "Osiągnięto maksymalną liczbę kont e-mail."
+
+msgid "IDS_MA_MBODY_AUTO_SYNC"
+msgstr "Autom. synchr."
+
+msgid "IDS_MA_HEADER_ADD_ACCOUNT"
+msgstr "Dodaj konto"
+
+msgid "IDS_MA_HEADER_ACCOUNTS"
+msgstr "Konta"
+
+msgid "IDS_MA_BUTTON_OK"
+msgstr "OK"
+
+msgid "IDS_MA_BODY_YOU_CAN_MANAGE_YOUR_CONTACTS_CALENDARS_EMAIL_AND_IM_ACCOUNTS"
+msgstr "Możesz zarządzać kontaktami, kalendarzami, e-mailami i kontami komunikatora."
+
+msgid "IDS_MA_BODY_SIGNED_IN"
+msgstr "Zalogowano."
+
+msgid "IDS_PB_TAB_CONTACTS"
+msgstr "Kontakty"
+
+msgid "IDS_PB_BODY_ADD_ACCOUNT"
+msgstr "Dodaj konto"
+
+msgid "IDS_ST_BODY_VIDEOS"
+msgstr "Filmy"
+
+msgid "IDS_ST_BODY_MOBILE_TRACKER"
+msgstr "Mobile Tracker"
+
+msgid "IDS_ST_BODY_ACCOUNT_LIST"
+msgstr "Lista kont"
+
+msgid "IDS_SYNCML_BODY_SYNC_SERVER"
+msgstr "Serwer synch."
+
+msgid "IDS_TASK_BODY_TASK"
+msgstr "Zadanie"
+
+msgid "IDS_HELP_POP_TUTORIAL_COMPLETE"
+msgstr "Samouczek ukończono."
+
+msgid "IDS_HELP_BODY_SELECT_A_CLOUD_SERVICE_TO_USE_AND_THEN_SET_UP_AN_ACCOUNT_ONCE_YOU_HAVE_SET_UP_A_SAMSUNG_ACCOUNT_SAVED_MEMOS_WILL_BE_SYNCED_AUTOMATICALLY"
+msgstr "Wybierz usługę chmurową, której chcesz użyć, a następnie skonfiguruj konto. Po skonfigurowaniu konta Samsung zapisane zapiski będą synchronizowane automatycznie."
+
+msgid "IDS_MA_NPBODY_NO_ACCOUNT_PROVIDER_APPS_INSTALLED"
+msgstr "Nie zainstalowano aplikacji dostawcy konta"
+

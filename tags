@@ -1,0 +1,238 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+BUFSIZE	include/myaccount_ug_common.h	96;"	d
+LOG_TAG	include/myaccount_ug.h	36;"	d
+MA_IMAGE_EDJ_NAME	include/myaccount_ug_common.h	92;"	d
+MA_MEMFREE	include/myaccount_ug_common.h	114;"	d
+MA_NO_ACCOUNT_EDJ_NAME	include/myaccount_ug_common.h	94;"	d
+MA_SNPRINTF	include/myaccount_ug_common.h	98;"	d
+MA_STRNCPY	include/myaccount_ug_common.h	106;"	d
+MA_UG_NAME	include/myaccount_ug_common.h	90;"	d
+MYACCOUNT_DBUG	include/myaccount_ug.h	53;"	d
+MYACCOUNT_ERROR	include/myaccount_ug.h	57;"	d
+MYACCOUNT_FATAL	include/myaccount_ug.h	59;"	d
+MYACCOUNT_LAUNCH_TIME_OUT	src/myaccount_ug_common.c	29;"	d	file:
+MYACCOUNT_MAX_TOUCH_BLOCK_INTERVAL	src/myaccount_ug_common.c	31;"	d	file:
+MYACCOUNT_RELAUNCH_INTERVAL	src/myaccount_ug_common.c	30;"	d	file:
+MYACCOUNT_REQUEST_SIGNIN	include/myaccount_ug_common.h	/^	MYACCOUNT_REQUEST_SIGNIN = 0,$/;"	e	enum:__anon2
+MYACCOUNT_REQUEST_VIEW	include/myaccount_ug_common.h	/^	MYACCOUNT_REQUEST_VIEW$/;"	e	enum:__anon2
+MYACCOUNT_SLOGD	include/myaccount_ug.h	62;"	d
+MYACCOUNT_SLOGE	include/myaccount_ug.h	66;"	d
+MYACCOUNT_SLOGI	include/myaccount_ug.h	64;"	d
+MYACCOUNT_TYPE_CSC	include/myaccount_ug_common.h	/^	MYACCOUNT_TYPE_CSC,$/;"	e	enum:__anon1
+MYACCOUNT_TYPE_EXCHANGE	include/myaccount_ug_common.h	/^	MYACCOUNT_TYPE_EXCHANGE = 0,$/;"	e	enum:__anon1
+MYACCOUNT_TYPE_GOOGLE	include/myaccount_ug_common.h	/^	MYACCOUNT_TYPE_GOOGLE,$/;"	e	enum:__anon1
+MYACCOUNT_TYPE_OTHER	include/myaccount_ug_common.h	/^	MYACCOUNT_TYPE_OTHER,$/;"	e	enum:__anon1
+MYACCOUNT_TYPE_PICASA	include/myaccount_ug_common.h	/^	MYACCOUNT_TYPE_PICASA,$/;"	e	enum:__anon1
+MYACCOUNT_TYPE_SAMSUNG	include/myaccount_ug_common.h	/^	MYACCOUNT_TYPE_SAMSUNG,$/;"	e	enum:__anon1
+MYACCOUNT_TYPE_TIZEN	include/myaccount_ug_common.h	/^	MYACCOUNT_TYPE_TIZEN,$/;"	e	enum:__anon1
+MYACCOUNT_TYPE_UNKNOWN	include/myaccount_ug_common.h	/^	MYACCOUNT_TYPE_UNKNOWN$/;"	e	enum:__anon1
+MYACCOUNT_TYPE_YOUTUBE	include/myaccount_ug_common.h	/^	MYACCOUNT_TYPE_YOUTUBE,$/;"	e	enum:__anon1
+MYACCOUNT_VERBOSE	include/myaccount_ug.h	51;"	d
+MYACCOUNT_WARNING	include/myaccount_ug.h	55;"	d
+MyAccountProviderType	include/myaccount_ug_common.h	/^}MyAccountProviderType;$/;"	t	typeref:enum:__anon1
+MyAccountRequestViewType	include/myaccount_ug_common.h	/^}MyAccountRequestViewType;$/;"	t	typeref:enum:__anon2
+PACKAGE	include/myaccount_ug.h	71;"	d
+PREFIX	include/myaccount_ug.h	48;"	d
+SORT_PRIOR_1	src/myaccount_ug_account_list.c	26;"	d	file:
+SORT_PRIOR_1	src/myaccount_ug_addaccount.c	28;"	d	file:
+SORT_PRIOR_2	src/myaccount_ug_account_list.c	27;"	d	file:
+SORT_PRIOR_2	src/myaccount_ug_addaccount.c	29;"	d	file:
+SORT_PRIOR_3	src/myaccount_ug_account_list.c	28;"	d	file:
+SORT_PRIOR_3	src/myaccount_ug_addaccount.c	30;"	d	file:
+TOOLBAR_HEIGHT	src/myaccount_ug_account_list.c	34;"	d	file:
+UG_MODULE_API	src/myaccount_ug_addaccount.c	21;"	d	file:
+UG_MODULE_API	src/myaccount_ug_main.c	27;"	d	file:
+UG_MODULE_EXIT	src/myaccount_ug_main.c	/^UG_MODULE_API void UG_MODULE_EXIT(struct ug_module_ops *ops)$/;"	f
+UG_MODULE_INIT	src/myaccount_ug_main.c	/^UG_MODULE_API int UG_MODULE_INIT(struct ug_module_ops *ops)$/;"	f
+_EDJ	include/myaccount_ug.h	69;"	d
+_MYACCOUNT_H_	include/myaccount_ug.h	21;"	d
+_MYACCOUNT_UG_ACCOUNT_LIST_H_	include/myaccount_ug_account_list.h	21;"	d
+_MYACCOUNT_UG_ADD_ACCOUNT_H_	include/myaccount_ug_addaccount.h	21;"	d
+_MYACCOUNT_UG_COMMON_H_	include/myaccount_ug_common.h	21;"	d
+_MYACCOUNT_UG_MAIN_H_	include/myaccount_ug_main.h	19;"	d
+__account_list_priv	include/myaccount_ug_account_list.h	/^typedef struct __account_list_priv {$/;"	s
+__addaccount_list_priv	include/myaccount_ug_addaccount.h	/^typedef struct __addaccount_list_priv {$/;"	s
+__capability_data	include/myaccount_ug_account_list.h	/^typedef struct __capability_data {$/;"	s
+__create_more_ctxpopup	src/myaccount_ug_account_list.c	/^static void __create_more_ctxpopup(myaccount_appdata *ad)$/;"	f	file:
+__delete_more_cb	src/myaccount_ug_account_list.c	/^static void __delete_more_cb(void *data)$/;"	f	file:
+__more_cb	src/myaccount_ug_account_list.c	/^static void __more_cb(void *data, Evas_Object *obj, void *event_info)$/;"	f	file:
+__move_more_ctxpopup	src/myaccount_ug_account_list.c	/^static void __move_more_ctxpopup(myaccount_appdata *ad)$/;"	f	file:
+__myaccount_account_list_addaccount_cb	src/myaccount_ug_account_list.c	/^static void __myaccount_account_list_addaccount_cb( void *data,$/;"	f	file:
+__myaccount_account_list_append_genlist	src/myaccount_ug_account_list.c	/^static void __myaccount_account_list_append_genlist(myaccount_appdata *ad,$/;"	f	file:
+__myaccount_account_list_create_bg	src/myaccount_ug_account_list.c	/^static Evas_Object *__myaccount_account_list_create_bg(Evas_Object *parent)$/;"	f	file:
+__myaccount_account_list_create_genlist	src/myaccount_ug_account_list.c	/^static Evas_Object *__myaccount_account_list_create_genlist($/;"	f	file:
+__myaccount_account_list_create_main_layout	src/myaccount_ug_account_list.c	/^static Evas_Object *__myaccount_account_list_create_main_layout($/;"	f	file:
+__myaccount_account_list_create_navi_layout	src/myaccount_ug_account_list.c	/^static Evas_Object *__myaccount_account_list_create_navi_layout($/;"	f	file:
+__myaccount_account_list_get_capablity_string_value	src/myaccount_ug_account_list.c	/^static char *__myaccount_account_list_get_capablity_string_value(const char* capability_type)$/;"	f	file:
+__myaccount_account_list_gl_icon_get	src/myaccount_ug_account_list.c	/^static Evas_Object *__myaccount_account_list_gl_icon_get(void *data,$/;"	f	file:
+__myaccount_account_list_gl_label_get	src/myaccount_ug_account_list.c	/^static char *__myaccount_account_list_gl_label_get(void *data,$/;"	f	file:
+__myaccount_account_list_gl_sel	src/myaccount_ug_account_list.c	/^static void __myaccount_account_list_gl_sel(void *data,$/;"	f	file:
+__myaccount_account_list_init_main_view	src/myaccount_ug_account_list.c	/^static void __myaccount_account_list_init_main_view(myaccount_appdata *ad)$/;"	f	file:
+__myaccount_account_list_item_selected	src/myaccount_ug_account_list.c	/^static void __myaccount_account_list_item_selected(void *data,$/;"	f	file:
+__myaccount_account_list_parse_param	src/myaccount_ug_main.c	/^static gboolean __myaccount_account_list_parse_param(myaccount_mode_e *mode, app_control_h data, myaccount_appdata *ad)$/;"	f	file:
+__myaccount_account_list_populate_account_info	src/myaccount_ug_account_list.c	/^static int __myaccount_account_list_populate_account_info(myaccount_appdata *ad)$/;"	f	file:
+__myaccount_accountlist_set_ug_cbs	src/myaccount_ug_account_list.c	/^static void __myaccount_accountlist_set_ug_cbs(struct ug_cbs *cbs,$/;"	f	file:
+__myaccount_addaccount_append_genlist_item	src/myaccount_ug_addaccount.c	/^static Evas_Object *__myaccount_addaccount_append_genlist_item($/;"	f	file:
+__myaccount_addaccount_create_genlist	src/myaccount_ug_addaccount.c	/^static Evas_Object *__myaccount_addaccount_create_genlist($/;"	f	file:
+__myaccount_addaccount_create_genlist_layout	src/myaccount_ug_addaccount.c	/^static Evas_Object * __myaccount_addaccount_create_genlist_layout($/;"	f	file:
+__myaccount_addaccount_gl_label_get	src/myaccount_ug_addaccount.c	/^static char *__myaccount_addaccount_gl_label_get(void *data,$/;"	f	file:
+__myaccount_addaccount_gl_sel	src/myaccount_ug_addaccount.c	/^static void __myaccount_addaccount_gl_sel(void *data,$/;"	f	file:
+__myaccount_addaccount_icon_get	src/myaccount_ug_addaccount.c	/^static Evas_Object *__myaccount_addaccount_icon_get( void *data,$/;"	f	file:
+__myaccount_addaccount_no_account	src/myaccount_ug_addaccount.c	/^static Evas_Object *__myaccount_addaccount_no_account(myaccount_appdata *ad, int count)$/;"	f	file:
+__myaccount_addaccount_populate_service_info	src/myaccount_ug_addaccount.c	/^static int __myaccount_addaccount_populate_service_info(myaccount_appdata *ad)$/;"	f	file:
+__myaccount_addaccount_quit_cb	src/myaccount_ug_addaccount.c	/^Eina_Bool __myaccount_addaccount_quit_cb( void *data,$/;"	f
+__myaccount_ug_list_call_ug	src/myaccount_ug_account_list.c	/^static void __myaccount_ug_list_call_ug(void *data, myaccount_list_priv *account)$/;"	f	file:
+__rotate_more_ctxpopup_cb	src/myaccount_ug_account_list.c	/^static void __rotate_more_ctxpopup_cb(void *data, Evas_Object *obj, void *event_info)$/;"	f	file:
+_delete_ctxpopup_cb	src/myaccount_ug_account_list.c	/^static void _delete_ctxpopup_cb(void *data, Evas *e, Evas_Object *obj, void *event_info)$/;"	f	file:
+_myaccount_account_list_account_info_cb	src/myaccount_ug_account_list.c	/^bool _myaccount_account_list_account_info_cb(account_h account,$/;"	f
+_myaccount_account_list_create_priv_item	src/myaccount_ug_account_list.c	/^_myaccount_account_list_create_priv_item()$/;"	f	file:
+_myaccount_account_list_get_capablity_text	src/myaccount_ug_account_list.c	/^bool _myaccount_account_list_get_capablity_text(const char* capability_type,$/;"	f
+_myaccount_addaccount_create_priv_item	src/myaccount_ug_addaccount.c	/^_myaccount_addaccount_create_priv_item()$/;"	f	file:
+_myaccount_addaccount_get_account_type_info	src/myaccount_ug_addaccount.c	/^static void _myaccount_addaccount_get_account_type_info(const char* capability_filter, GList** sp_info_list)$/;"	f	file:
+_myaccount_addaccount_get_account_type_info_cb	src/myaccount_ug_addaccount.c	/^static bool _myaccount_addaccount_get_account_type_info_cb(account_type_h account_type, void *user_data)$/;"	f	file:
+_myaccount_common_add_popup	src/myaccount_ug_common.c	/^Evas_Object* _myaccount_common_add_popup(Evas_Object* parent, const char* text, const char* title)$/;"	f
+_myaccount_common_click_block_timer_cb	src/myaccount_ug_common.c	/^static Eina_Bool _myaccount_common_click_block_timer_cb(void *data)$/;"	f	file:
+_myaccount_common_get_account_type_count_cb	src/myaccount_ug_common.c	/^static bool _myaccount_common_get_account_type_count_cb(account_type_h account_type, void *user_data)$/;"	f	file:
+_myaccount_common_launch_application_timer_cb	src/myaccount_ug_common.c	/^static Eina_Bool _myaccount_common_launch_application_timer_cb(void *data)$/;"	f	file:
+_myaccount_common_launch_timer_start	src/myaccount_ug_common.c	/^static void _myaccount_common_launch_timer_start(myaccount_appdata *ad)$/;"	f	file:
+_myaccount_common_pkmgr_return_cb	src/myaccount_ug_common.c	/^static int _myaccount_common_pkmgr_return_cb(uid_t target_uid, int req_id, const char *pkg_type,$/;"	f	file:
+_myaccount_common_popup_cb	src/myaccount_ug_common.c	/^static void _myaccount_common_popup_cb(void *data, Evas_Object *obj, void *event_info)$/;"	f	file:
+_myaccount_common_query_cb	src/myaccount_ug_common.c	/^static bool _myaccount_common_query_cb(account_h account, void *user_data)$/;"	f	file:
+_myaccount_common_relaunch_application_timer_cb	src/myaccount_ug_common.c	/^static Eina_Bool _myaccount_common_relaunch_application_timer_cb(void *data)$/;"	f	file:
+_myaccount_common_try_relaunch	src/myaccount_ug_common.c	/^static void _myaccount_common_try_relaunch(myaccount_appdata* ad, app_control_h app_control)$/;"	f	file:
+_myaccount_ug_account_gl_realized	src/myaccount_ug_account_list.c	/^static void _myaccount_ug_account_gl_realized(void *data, Evas_Object *obj, void *ei)$/;"	f	file:
+_myaccount_ug_account_list_compare	src/myaccount_ug_account_list.c	/^static int _myaccount_ug_account_list_compare(gconstpointer a, gconstpointer b)$/;"	f	file:
+_myaccount_ug_account_list_destroy_cb	src/myaccount_ug_account_list.c	/^static void _myaccount_ug_account_list_destroy_cb(ui_gadget_h ug, void *priv)$/;"	f	file:
+_myaccount_ug_account_list_layout_cb	src/myaccount_ug_account_list.c	/^static void _myaccount_ug_account_list_layout_cb(ui_gadget_h ug,$/;"	f	file:
+_myaccount_ug_account_list_result_cb	src/myaccount_ug_account_list.c	/^static void _myaccount_ug_account_list_result_cb(ui_gadget_h ug, app_control_h app_control, void *priv)$/;"	f	file:
+_myaccount_ug_addaccount_compare	src/myaccount_ug_addaccount.c	/^static int _myaccount_ug_addaccount_compare(gconstpointer a, gconstpointer b)$/;"	f	file:
+_myaccount_ug_addaccount_gl_deleted	src/myaccount_ug_addaccount.c	/^static void _myaccount_ug_addaccount_gl_deleted(void *data, Evas_Object *obj, void *ei)$/;"	f	file:
+_myaccount_ug_addaccount_gl_realized	src/myaccount_ug_addaccount.c	/^static void _myaccount_ug_addaccount_gl_realized(void *data, Evas_Object *obj, void *ei)$/;"	f	file:
+account_genlist	include/myaccount_ug.h	/^	Evas_Object *account_genlist;$/;"	m	struct:appdata
+account_id	include/myaccount_ug_account_list.h	/^	int account_id;$/;"	m	struct:__account_list_priv
+account_index	src/myaccount_ug_account_list.c	/^static int account_index = 0;$/;"	v	file:
+account_info_list	include/myaccount_ug.h	/^	GList* account_info_list;$/;"	m	struct:appdata
+account_list_itc	src/myaccount_ug_account_list.c	/^static Elm_Genlist_Item_Class account_list_itc;$/;"	v	file:
+account_subscribe	include/myaccount_ug.h	/^	account_subscribe_h account_subscribe;$/;"	m	struct:appdata
+add_genlist	include/myaccount_ug.h	/^	Evas_Object *add_genlist;$/;"	m	struct:appdata
+add_nf_it	include/myaccount_ug.h	/^	Elm_Object_Item *add_nf_it;$/;"	m	struct:appdata
+addacc_list_itc	src/myaccount_ug_addaccount.c	/^static Elm_Genlist_Item_Class addacc_list_itc;$/;"	v	file:
+addaccount_list_priv	include/myaccount_ug_addaccount.h	/^}addaccount_list_priv;$/;"	t	typeref:struct:__addaccount_list_priv
+appdata	include/myaccount_ug.h	/^typedef struct appdata {$/;"	s
+appsvc_handle	include/myaccount_ug.h	/^	app_control_h appsvc_handle;$/;"	m	struct:appdata
+auto_sync_check	include/myaccount_ug.h	/^	Evas_Object *auto_sync_check;$/;"	m	struct:appdata
+base	include/myaccount_ug.h	/^	Evas_Object *base;$/;"	m	struct:appdata
+bg	include/myaccount_ug.h	/^	Evas_Object *bg;$/;"	m	struct:appdata
+called_from	include/myaccount_ug.h	/^	char *called_from;$/;"	m	struct:appdata
+caller_userdata	include/myaccount_ug.h	/^	char *caller_userdata;$/;"	m	struct:appdata
+cancel_sync_icon	include/myaccount_ug.h	/^	Evas_Object *cancel_sync_icon;$/;"	m	struct:appdata
+capability	include/myaccount_ug_account_list.h	/^	char capability[128];$/;"	m	struct:__account_list_priv
+capability_filter	include/myaccount_ug.h	/^	char *capability_filter;$/;"	m	struct:appdata
+capablity_list	include/myaccount_ug_account_list.h	/^	GSList *capablity_list;$/;"	m	struct:__account_list_priv
+clickblock_timer	include/myaccount_ug.h	/^	Ecore_Timer *clickblock_timer;$/;"	m	struct:appdata
+conformant	include/myaccount_ug.h	/^	Evas_Object *conformant;$/;"	m	struct:appdata
+current_language	include/myaccount_ug.h	/^	char* current_language;$/;"	m	struct:appdata
+display_name	include/myaccount_ug_account_list.h	/^	char display_name[256];$/;"	m	struct:__account_list_priv
+domain_name	include/myaccount_ug_account_list.h	/^	char domain_name[60];$/;"	m	struct:__account_list_priv
+eMYACCOUNT_ACCOUNT_LIST	include/myaccount_ug.h	/^	eMYACCOUNT_ACCOUNT_LIST,$/;"	e	enum:__anon3
+eMYACCOUNT_ADD_ACCOUNT	include/myaccount_ug.h	/^	eMYACCOUNT_ADD_ACCOUNT,$/;"	e	enum:__anon3
+eMode	include/myaccount_ug.h	/^	myaccount_mode_e eMode;$/;"	m	struct:appdata
+email_address	include/myaccount_ug_account_list.h	/^	char email_address[256];$/;"	m	struct:__account_list_priv
+g_appdata	src/myaccount_ug_main.c	/^static myaccount_appdata *g_appdata = NULL;$/;"	v	file:
+g_handle_noti	src/myaccount_ug_main.c	/^static int g_handle_noti = 0;$/;"	v	file:
+g_myaccount_appdata	src/myaccount_ug_common.c	/^static myaccount_appdata *g_myaccount_appdata = NULL;$/;"	v	file:
+help_label	include/myaccount_ug.h	/^	Evas_Object *help_label;$/;"	m	struct:appdata
+icon_path	include/myaccount_ug_account_list.h	/^	char icon_path[PATH_MAX];$/;"	m	struct:__account_list_priv
+icon_path	include/myaccount_ug_addaccount.h	/^	char icon_path[1024];$/;"	m	struct:__addaccount_list_priv
+indi_mode	include/myaccount_ug.h	/^	Elm_Win_Indicator_Mode indi_mode;$/;"	m	struct:appdata
+indi_o_mode	include/myaccount_ug.h	/^	Elm_Win_Indicator_Opacity_Mode indi_o_mode;$/;"	m	struct:appdata
+item_selected_state	include/myaccount_ug.h	/^	bool item_selected_state;$/;"	m	struct:appdata
+lang_changed	src/myaccount_ug_main.c	/^static void lang_changed(void * priv)$/;"	f	file:
+layout_addaccount	include/myaccount_ug.h	/^	Evas_Object *layout_addaccount;$/;"	m	struct:appdata
+layout_main	include/myaccount_ug.h	/^	Evas_Object *layout_main;$/;"	m	struct:appdata
+list_index	include/myaccount_ug_account_list.h	/^	int list_index;$/;"	m	struct:__account_list_priv
+lock_curr_state	include/myaccount_ug.h	/^	int lock_curr_state;$/;"	m	struct:appdata
+lock_priv_state	include/myaccount_ug.h	/^	int lock_priv_state;$/;"	m	struct:appdata
+ly	include/myaccount_ug.h	/^	Evas_Object *ly;$/;"	m	struct:appdata
+modal_popup	include/myaccount_ug.h	/^	Evas_Object *modal_popup;$/;"	m	struct:appdata
+multiple_account_support	include/myaccount_ug_addaccount.h	/^	bool multiple_account_support;$/;"	m	struct:__addaccount_list_priv
+myaccount_account_list_back_key_cb	src/myaccount_ug_account_list.c	/^void myaccount_account_list_back_key_cb(void *data, Evas_Object *obj, void *event_info)$/;"	f
+myaccount_account_list_create	src/myaccount_ug_main.c	/^void *myaccount_account_list_create(ui_gadget_h ug, enum ug_mode mode, app_control_h data, void *priv)$/;"	f
+myaccount_account_list_destroy	src/myaccount_ug_main.c	/^static void myaccount_account_list_destroy(ui_gadget_h ug, app_control_h data, void *priv)$/;"	f	file:
+myaccount_account_list_event	src/myaccount_ug_main.c	/^static void myaccount_account_list_event(ui_gadget_h ug, enum ug_event event, app_control_h data, void *priv)$/;"	f	file:
+myaccount_account_list_free_priv_data	src/myaccount_ug_account_list.c	/^void myaccount_account_list_free_priv_data(myaccount_appdata *appdata)$/;"	f
+myaccount_account_list_message	src/myaccount_ug_main.c	/^static void myaccount_account_list_message(ui_gadget_h ug, app_control_h msg, app_control_h data, void *priv)$/;"	f	file:
+myaccount_account_list_pause	src/myaccount_ug_main.c	/^ static void myaccount_account_list_pause(ui_gadget_h ug, app_control_h data, void *priv)$/;"	f	file:
+myaccount_account_list_quit_cb	src/myaccount_ug_account_list.c	/^Eina_Bool myaccount_account_list_quit_cb(void *data, Elm_Object_Item *it)$/;"	f
+myaccount_account_list_resume	src/myaccount_ug_main.c	/^static void myaccount_account_list_resume(ui_gadget_h ug, app_control_h data, void *priv)$/;"	f	file:
+myaccount_account_list_start	src/myaccount_ug_main.c	/^ static void myaccount_account_list_start(ui_gadget_h ug, app_control_h data, void *priv)$/;"	f	file:
+myaccount_add_account_by_package_name_cb	src/myaccount_ug_addaccount.c	/^bool myaccount_add_account_by_package_name_cb(account_h account,$/;"	f
+myaccount_addaccount_back_key_cb	src/myaccount_ug_addaccount.c	/^void myaccount_addaccount_back_key_cb(void *data, Evas_Object *obj, void *event_info)$/;"	f
+myaccount_addaccount_create_view	src/myaccount_ug_addaccount.c	/^void myaccount_addaccount_create_view(myaccount_appdata *ad)$/;"	f
+myaccount_addaccount_free_priv_data	src/myaccount_ug_addaccount.c	/^void myaccount_addaccount_free_priv_data(myaccount_appdata *appdata)$/;"	f
+myaccount_addaccount_genlist_create	src/myaccount_ug_addaccount.c	/^void myaccount_addaccount_genlist_create(void *data)$/;"	f
+myaccount_addaccount_refresh_item_list	src/myaccount_ug_addaccount.c	/^void myaccount_addaccount_refresh_item_list(myaccount_appdata *ad)$/;"	f
+myaccount_appdata	include/myaccount_ug.h	/^}myaccount_appdata;$/;"	t	typeref:struct:appdata
+myaccount_capability_data	include/myaccount_ug_account_list.h	/^}myaccount_capability_data;$/;"	t	typeref:struct:__capability_data
+myaccount_common_account_by_package_name_cb	src/myaccount_ug_common.c	/^bool myaccount_common_account_by_package_name_cb(account_h account,$/;"	f
+myaccount_common_delete_modal_popup	src/myaccount_ug_common.c	/^void myaccount_common_delete_modal_popup(Evas_Object *popup)$/;"	f
+myaccount_common_get_account_cnt_by_appid	src/myaccount_ug_common.c	/^int myaccount_common_get_account_cnt_by_appid(const char* appid, int *count)$/;"	f
+myaccount_common_get_account_cnt_by_capability	src/myaccount_ug_common.c	/^int myaccount_common_get_account_cnt_by_capability(const char* capability_type, int *count)$/;"	f
+myaccount_common_get_account_type_count	src/myaccount_ug_common.c	/^int myaccount_common_get_account_type_count(const char* capability_filter)$/;"	f
+myaccount_common_get_all_account_cnt	src/myaccount_ug_common.c	/^int myaccount_common_get_all_account_cnt(int *count, bool include_secret)$/;"	f
+myaccount_common_get_icon_by_name	src/myaccount_ug_common.c	/^void myaccount_common_get_icon_by_name(char *domain_name,$/;"	f
+myaccount_common_get_item_selected_state	src/myaccount_ug_common.c	/^bool myaccount_common_get_item_selected_state()$/;"	f
+myaccount_common_handle_notification	src/myaccount_ug_common.c	/^void myaccount_common_handle_notification(const char* event_type)$/;"	f
+myaccount_common_launch_application	src/myaccount_ug_common.c	/^int  myaccount_common_launch_application(MyAccountRequestViewType$/;"	f
+myaccount_common_listen_pkgmgr_for_pkg_uninstall	src/myaccount_ug_common.c	/^void myaccount_common_listen_pkgmgr_for_pkg_uninstall()$/;"	f
+myaccount_common_lowercase	src/myaccount_ug_common.c	/^void myaccount_common_lowercase(char *src, char *dest)$/;"	f
+myaccount_common_modal_popup_timer_cb	src/myaccount_ug_common.c	/^Eina_Bool myaccount_common_modal_popup_timer_cb(gpointer data)$/;"	f
+myaccount_common_set_item_selected_state	src/myaccount_ug_common.c	/^void myaccount_common_set_item_selected_state(bool val)$/;"	f
+myaccount_destroy_appdata	src/myaccount_ug_common.c	/^void myaccount_destroy_appdata()$/;"	f
+myaccount_destroy_data	src/myaccount_ug_main.c	/^void myaccount_destroy_data()$/;"	f
+myaccount_get_appdata	src/myaccount_ug_common.c	/^void * myaccount_get_appdata()$/;"	f
+myaccount_init_appdata	src/myaccount_ug_common.c	/^void *myaccount_init_appdata()$/;"	f
+myaccount_list_navi_create	src/myaccount_ug_account_list.c	/^void myaccount_list_navi_create(myaccount_appdata *ad)$/;"	f
+myaccount_list_priv	include/myaccount_ug_account_list.h	/^}myaccount_list_priv;$/;"	t	typeref:struct:__account_list_priv
+myaccount_list_refresh_item_list	src/myaccount_ug_account_list.c	/^void myaccount_list_refresh_item_list(myaccount_appdata *ad)$/;"	f
+myaccount_list_view_create	src/myaccount_ug_account_list.c	/^void myaccount_list_view_create(myaccount_appdata *priv)$/;"	f
+myaccount_mode_e	include/myaccount_ug.h	/^} myaccount_mode_e;$/;"	t	typeref:enum:__anon3
+myaccount_on_key_event	src/myaccount_ug_main.c	/^static void myaccount_on_key_event(ui_gadget_h ug, enum ug_key_event event, app_control_h data, void * priv)$/;"	f	file:
+myaccount_subscribe_callback	src/myaccount_ug_main.c	/^bool myaccount_subscribe_callback(const char* event_type, int account_id, void* user_data)$/;"	f
+myaccount_subscribe_to_account_notification_vconfkey	src/myaccount_ug_main.c	/^int myaccount_subscribe_to_account_notification_vconfkey()$/;"	f
+myaccount_ug_account_list_create	src/myaccount_ug_account_list.c	/^void myaccount_ug_account_list_create(void *data)$/;"	f
+navi_bar	include/myaccount_ug.h	/^	Evas_Object *navi_bar;$/;"	m	struct:appdata
+navi_it	include/myaccount_ug.h	/^	Elm_Object_Item *navi_it;$/;"	m	struct:appdata
+nf_it	include/myaccount_ug.h	/^	Elm_Object_Item *nf_it;$/;"	m	struct:appdata
+overlap_mode	include/myaccount_ug.h	/^	bool overlap_mode;$/;"	m	struct:appdata
+package_name	include/myaccount_ug_account_list.h	/^	char package_name[256];$/;"	m	struct:__account_list_priv
+package_name	include/myaccount_ug_addaccount.h	/^	char package_name[256];$/;"	m	struct:__addaccount_list_priv
+pc	include/myaccount_ug.h	/^	pkgmgr_client *pc;$/;"	m	struct:appdata
+popup	include/myaccount_ug.h	/^	Evas_Object *popup;$/;"	m	struct:appdata
+prev_app_cnt	include/myaccount_ug.h	/^	int prev_app_cnt;$/;"	m	struct:appdata
+progress_timer	include/myaccount_ug.h	/^	Ecore_Timer *progress_timer;$/;"	m	struct:appdata
+r_title_sk	include/myaccount_ug.h	/^	Evas_Object *r_title_sk;$/;"	m	struct:appdata
+refresh_btn	include/myaccount_ug.h	/^	Evas_Object *refresh_btn;$/;"	m	struct:appdata
+refresh_icon	include/myaccount_ug.h	/^	Evas_Object *refresh_icon;$/;"	m	struct:appdata
+relaunch_timer	include/myaccount_ug.h	/^	Ecore_Timer *relaunch_timer;$/;"	m	struct:appdata
+secret	include/myaccount_ug_account_list.h	/^	int secret;$/;"	m	struct:__account_list_priv
+service_name	include/myaccount_ug_addaccount.h	/^	char service_name[256];$/;"	m	struct:__addaccount_list_priv
+service_sname	include/myaccount_ug_account_list.h	/^	char service_sname[256];$/;"	m	struct:__account_list_priv
+service_sname	include/myaccount_ug_addaccount.h	/^	char service_sname[256];$/;"	m	struct:__addaccount_list_priv
+setting_plugin_reset	src/myaccount_ug_main.c	/^UG_MODULE_API int setting_plugin_reset(app_control_h data, void *priv)$/;"	f
+sorted_account_list	include/myaccount_ug.h	/^	GList* sorted_account_list;$/;"	m	struct:appdata
+sorted_sp_list	include/myaccount_ug.h	/^	GList* sorted_sp_list;$/;"	m	struct:appdata
+sp_type	include/myaccount_ug_addaccount.h	/^	MyAccountProviderType sp_type;$/;"	m	struct:__addaccount_list_priv
+state	include/myaccount_ug_account_list.h	/^	int state;$/;"	m	struct:__capability_data
+sync_status	include/myaccount_ug_account_list.h	/^	int sync_status;$/;"	m	struct:__account_list_priv
+theme	include/myaccount_ug.h	/^	Elm_Theme* theme;$/;"	m	struct:appdata
+type	include/myaccount_ug_account_list.h	/^	char* type;$/;"	m	struct:__capability_data
+ug	include/myaccount_ug.h	/^	ui_gadget_h ug;$/;"	m	struct:appdata
+ug_called	include/myaccount_ug.h	/^	ui_gadget_h ug_called;$/;"	m	struct:appdata
+username	include/myaccount_ug_account_list.h	/^	char username[256];$/;"	m	struct:__account_list_priv
+win_main	include/myaccount_ug.h	/^	Evas_Object *win_main;$/;"	m	struct:appdata

@@ -1,0 +1,84 @@
+msgid "IDS_COM_BODY_GALLERY"
+msgstr "媒體瀏覽器"
+
+msgid "IDS_COM_OPT_S_MEMO"
+msgstr "S Memo"
+
+msgid "IDS_COM_BODY_VOIP_CALL"
+msgstr "VoIP 通話"
+
+msgid "IDS_COM_BODY_S_PLANNER"
+msgstr "S Planner"
+
+msgid "IDS_COM_BODY_SAMSUNG_APPS_T_MAINMENU"
+msgstr "Samsung Apps"
+
+msgid "IDS_COM_BODY_MUSIC"
+msgstr "音樂"
+
+msgid "IDS_COM_BODY_MESSAGES"
+msgstr "訊息"
+
+msgid "IDS_COM_BODY_INTERNET"
+msgstr "網際網路"
+
+msgid "IDS_COM_BODY_EMAIL"
+msgstr "電子郵件"
+
+msgid "IDS_TW_BODY_POST_TWITTER"
+msgstr "Post"
+
+msgid "IDS_EMAIL_BODY_MICROSOFT_EXCHANGE_ACTIVESYNC"
+msgstr "Microsoft Exchange ActiveSync"
+
+msgid "IDS_EMAIL_BODY_MAXIMUM_NUMBER_OF_EMAIL_ACCOUNTS_REACHED"
+msgstr "電子郵件帳號已達道最大數量。"
+
+msgid "IDS_MA_MBODY_AUTO_SYNC"
+msgstr "自動同步"
+
+msgid "IDS_MA_HEADER_ADD_ACCOUNT"
+msgstr "新增帳號"
+
+msgid "IDS_MA_HEADER_ACCOUNTS"
+msgstr "帳號"
+
+msgid "IDS_MA_BUTTON_OK"
+msgstr "確認"
+
+msgid "IDS_MA_BODY_YOU_CAN_MANAGE_YOUR_CONTACTS_CALENDARS_EMAIL_AND_IM_ACCOUNTS"
+msgstr "可管理您的聯絡人、日曆、電子郵件、以及 IM 帳號。"
+
+msgid "IDS_MA_BODY_SIGNED_IN"
+msgstr "已登入。"
+
+msgid "IDS_PB_TAB_CONTACTS"
+msgstr "聯絡人"
+
+msgid "IDS_PB_BODY_ADD_ACCOUNT"
+msgstr "新增帳號"
+
+msgid "IDS_ST_BODY_VIDEOS"
+msgstr "影片"
+
+msgid "IDS_ST_BODY_MOBILE_TRACKER"
+msgstr "手機追蹤系統"
+
+msgid "IDS_ST_BODY_ACCOUNT_LIST"
+msgstr "帳號清單"
+
+msgid "IDS_SYNCML_BODY_SYNC_SERVER"
+msgstr "同步伺服器"
+
+msgid "IDS_TASK_BODY_TASK"
+msgstr "工作"
+
+msgid "IDS_HELP_POP_TUTORIAL_COMPLETE"
+msgstr "教學完成。"
+
+msgid "IDS_HELP_BODY_SELECT_A_CLOUD_SERVICE_TO_USE_AND_THEN_SET_UP_AN_ACCOUNT_ONCE_YOU_HAVE_SET_UP_A_SAMSUNG_ACCOUNT_SAVED_MEMOS_WILL_BE_SYNCED_AUTOMATICALLY"
+msgstr "選擇要使用的雲端服務然後建立帳號。建立三星帳號後，將自動同步儲存的備忘錄。"
+
+msgid "IDS_MA_NPBODY_NO_ACCOUNT_PROVIDER_APPS_INSTALLED"
+msgstr "未安裝帳號提供者應用程式"
+

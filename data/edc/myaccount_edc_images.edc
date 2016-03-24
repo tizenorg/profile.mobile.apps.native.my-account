@@ -1,0 +1,6 @@
+#include "myaccount_edc_image_macro.edc"
+
+collections {
+RESOURCE_IMAGE("A01_2_Icon_default.png");
+RESOURCE_IMAGE("account_icon_syncing.png");
+}

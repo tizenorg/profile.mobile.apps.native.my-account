@@ -1,0 +1,84 @@
+msgid "IDS_COM_BODY_GALLERY"
+msgstr "Gallery"
+
+msgid "IDS_COM_OPT_S_MEMO"
+msgstr "S Memo"
+
+msgid "IDS_COM_BODY_VOIP_CALL"
+msgstr "VoIP call"
+
+msgid "IDS_COM_BODY_S_PLANNER"
+msgstr "S Planner"
+
+msgid "IDS_COM_BODY_SAMSUNG_APPS_T_MAINMENU"
+msgstr "Samsung Apps"
+
+msgid "IDS_COM_BODY_MUSIC"
+msgstr "Music"
+
+msgid "IDS_COM_BODY_MESSAGES"
+msgstr "Messages"
+
+msgid "IDS_COM_BODY_INTERNET"
+msgstr "Internet"
+
+msgid "IDS_COM_BODY_EMAIL"
+msgstr "Email"
+
+msgid "IDS_TW_BODY_POST_TWITTER"
+msgstr "Post"
+
+msgid "IDS_EMAIL_BODY_MICROSOFT_EXCHANGE_ACTIVESYNC"
+msgstr "Microsoft Exchange ActiveSync"
+
+msgid "IDS_EMAIL_BODY_MAXIMUM_NUMBER_OF_EMAIL_ACCOUNTS_REACHED"
+msgstr "Maximum number of email accounts reached."
+
+msgid "IDS_MA_MBODY_AUTO_SYNC"
+msgstr "Auto sync"
+
+msgid "IDS_MA_HEADER_ADD_ACCOUNT"
+msgstr "Add account"
+
+msgid "IDS_MA_HEADER_ACCOUNTS"
+msgstr "Accounts"
+
+msgid "IDS_MA_BUTTON_OK"
+msgstr "OK"
+
+msgid "IDS_MA_BODY_YOU_CAN_MANAGE_YOUR_CONTACTS_CALENDARS_EMAIL_AND_IM_ACCOUNTS"
+msgstr "You can manage your contacts, calendars, email, and IM accounts."
+
+msgid "IDS_MA_BODY_SIGNED_IN"
+msgstr "Signed in."
+
+msgid "IDS_PB_TAB_CONTACTS"
+msgstr "Contacts"
+
+msgid "IDS_PB_BODY_ADD_ACCOUNT"
+msgstr "Add account"
+
+msgid "IDS_ST_BODY_VIDEOS"
+msgstr "Videos"
+
+msgid "IDS_ST_BODY_MOBILE_TRACKER"
+msgstr "Mobile tracker"
+
+msgid "IDS_ST_BODY_ACCOUNT_LIST"
+msgstr "Account list"
+
+msgid "IDS_SYNCML_BODY_SYNC_SERVER"
+msgstr "Sync server"
+
+msgid "IDS_TASK_BODY_TASK"
+msgstr "Task"
+
+msgid "IDS_HELP_POP_TUTORIAL_COMPLETE"
+msgstr "Tutorial complete."
+
+msgid "IDS_HELP_BODY_SELECT_A_CLOUD_SERVICE_TO_USE_AND_THEN_SET_UP_AN_ACCOUNT_ONCE_YOU_HAVE_SET_UP_A_SAMSUNG_ACCOUNT_SAVED_MEMOS_WILL_BE_SYNCED_AUTOMATICALLY"
+msgstr "Select a cloud service to use and then set up an account. Once you have set up a Samsung account, saved memos will be synced automatically."
+
+msgid "IDS_MA_NPBODY_NO_ACCOUNT_PROVIDER_APPS_INSTALLED"
+msgstr "No account provider apps installed"
+

@@ -1,0 +1,84 @@
+msgid "IDS_COM_BODY_GALLERY"
+msgstr "Galerii"
+
+msgid "IDS_COM_OPT_S_MEMO"
+msgstr "S Memo"
+
+msgid "IDS_COM_BODY_VOIP_CALL"
+msgstr "VoIP-kõne"
+
+msgid "IDS_COM_BODY_S_PLANNER"
+msgstr "S Planeerija"
+
+msgid "IDS_COM_BODY_SAMSUNG_APPS_T_MAINMENU"
+msgstr "Samsung Apps"
+
+msgid "IDS_COM_BODY_MUSIC"
+msgstr "Muusika"
+
+msgid "IDS_COM_BODY_MESSAGES"
+msgstr "Sõnumid"
+
+msgid "IDS_COM_BODY_INTERNET"
+msgstr "Internet"
+
+msgid "IDS_COM_BODY_EMAIL"
+msgstr "E-post"
+
+msgid "IDS_TW_BODY_POST_TWITTER"
+msgstr "Post"
+
+msgid "IDS_EMAIL_BODY_MICROSOFT_EXCHANGE_ACTIVESYNC"
+msgstr "Microsoft Exchange ActiveSync"
+
+msgid "IDS_EMAIL_BODY_MAXIMUM_NUMBER_OF_EMAIL_ACCOUNTS_REACHED"
+msgstr "Maksimaalne arv e-posti kontosid on saavutatud."
+
+msgid "IDS_MA_MBODY_AUTO_SYNC"
+msgstr "Automaatne sünkroonimine"
+
+msgid "IDS_MA_HEADER_ADD_ACCOUNT"
+msgstr "Lisa konto"
+
+msgid "IDS_MA_HEADER_ACCOUNTS"
+msgstr "Kontod"
+
+msgid "IDS_MA_BUTTON_OK"
+msgstr "OK"
+
+msgid "IDS_MA_BODY_YOU_CAN_MANAGE_YOUR_CONTACTS_CALENDARS_EMAIL_AND_IM_ACCOUNTS"
+msgstr "Saate hallata oma kontakte, kalendreid, e-posti ja IM-kontosid."
+
+msgid "IDS_MA_BODY_SIGNED_IN"
+msgstr "Sisselogitud."
+
+msgid "IDS_PB_TAB_CONTACTS"
+msgstr "Kontaktid"
+
+msgid "IDS_PB_BODY_ADD_ACCOUNT"
+msgstr "Lisa konto"
+
+msgid "IDS_ST_BODY_VIDEOS"
+msgstr "Videod"
+
+msgid "IDS_ST_BODY_MOBILE_TRACKER"
+msgstr "Mobiilijälitus"
+
+msgid "IDS_ST_BODY_ACCOUNT_LIST"
+msgstr "Kontoloend"
+
+msgid "IDS_SYNCML_BODY_SYNC_SERVER"
+msgstr "Sünkrooni server"
+
+msgid "IDS_TASK_BODY_TASK"
+msgstr "Ülesanne"
+
+msgid "IDS_HELP_POP_TUTORIAL_COMPLETE"
+msgstr "Õpetus on lõpule viidud."
+
+msgid "IDS_HELP_BODY_SELECT_A_CLOUD_SERVICE_TO_USE_AND_THEN_SET_UP_AN_ACCOUNT_ONCE_YOU_HAVE_SET_UP_A_SAMSUNG_ACCOUNT_SAVED_MEMOS_WILL_BE_SYNCED_AUTOMATICALLY"
+msgstr "Valige pilveteenus, mida kasutada, ning seejärel seadistage konto. Kui olete Samsungi konto seadistanud, sünkroonitakse salvestatud memod automaatselt."
+
+msgid "IDS_MA_NPBODY_NO_ACCOUNT_PROVIDER_APPS_INSTALLED"
+msgstr "Ühtki konto teenusepakkuja rakendust pole installitud"
+

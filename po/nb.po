@@ -1,0 +1,84 @@
+msgid "IDS_COM_BODY_GALLERY"
+msgstr "Galleri"
+
+msgid "IDS_COM_OPT_S_MEMO"
+msgstr "S Memo"
+
+msgid "IDS_COM_BODY_VOIP_CALL"
+msgstr "VoIP-anrop"
+
+msgid "IDS_COM_BODY_S_PLANNER"
+msgstr "S Planner"
+
+msgid "IDS_COM_BODY_SAMSUNG_APPS_T_MAINMENU"
+msgstr "Samsung Apps"
+
+msgid "IDS_COM_BODY_MUSIC"
+msgstr "Musikk"
+
+msgid "IDS_COM_BODY_MESSAGES"
+msgstr "Meldinger"
+
+msgid "IDS_COM_BODY_INTERNET"
+msgstr "Internett"
+
+msgid "IDS_COM_BODY_EMAIL"
+msgstr "E-post"
+
+msgid "IDS_TW_BODY_POST_TWITTER"
+msgstr "Publiser"
+
+msgid "IDS_EMAIL_BODY_MICROSOFT_EXCHANGE_ACTIVESYNC"
+msgstr "Microsoft Exchange ActiveSync"
+
+msgid "IDS_EMAIL_BODY_MAXIMUM_NUMBER_OF_EMAIL_ACCOUNTS_REACHED"
+msgstr "Maksimalt antall e-postkontoer er nådd."
+
+msgid "IDS_MA_MBODY_AUTO_SYNC"
+msgstr "Autosynkronisering"
+
+msgid "IDS_MA_HEADER_ADD_ACCOUNT"
+msgstr "Legg til konto"
+
+msgid "IDS_MA_HEADER_ACCOUNTS"
+msgstr "Kontoer"
+
+msgid "IDS_MA_BUTTON_OK"
+msgstr "OK"
+
+msgid "IDS_MA_BODY_YOU_CAN_MANAGE_YOUR_CONTACTS_CALENDARS_EMAIL_AND_IM_ACCOUNTS"
+msgstr "Du kan administrere kontakter, kalendere, e-post og direktemeldingskontoer."
+
+msgid "IDS_MA_BODY_SIGNED_IN"
+msgstr "Pålogget."
+
+msgid "IDS_PB_TAB_CONTACTS"
+msgstr "Kontakter"
+
+msgid "IDS_PB_BODY_ADD_ACCOUNT"
+msgstr "Legg til konto"
+
+msgid "IDS_ST_BODY_VIDEOS"
+msgstr "Video"
+
+msgid "IDS_ST_BODY_MOBILE_TRACKER"
+msgstr "Tyverisporing"
+
+msgid "IDS_ST_BODY_ACCOUNT_LIST"
+msgstr "Kontoliste"
+
+msgid "IDS_SYNCML_BODY_SYNC_SERVER"
+msgstr "Synroniser server"
+
+msgid "IDS_TASK_BODY_TASK"
+msgstr "Oppgave"
+
+msgid "IDS_HELP_POP_TUTORIAL_COMPLETE"
+msgstr "Læreprogram fullført."
+
+msgid "IDS_HELP_BODY_SELECT_A_CLOUD_SERVICE_TO_USE_AND_THEN_SET_UP_AN_ACCOUNT_ONCE_YOU_HAVE_SET_UP_A_SAMSUNG_ACCOUNT_SAVED_MEMOS_WILL_BE_SYNCED_AUTOMATICALLY"
+msgstr "Velg en nettskytjeneste du vil synkronisere med, og konfigurer deretter en konto. Når du har konfigurert en Samsung-konto, vil lagrede notater bli synkronisert automatisk."
+
+msgid "IDS_MA_NPBODY_NO_ACCOUNT_PROVIDER_APPS_INSTALLED"
+msgstr "Ingen kontoleverandørapper er installert"
+

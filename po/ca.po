@@ -1,0 +1,84 @@
+msgid "IDS_COM_BODY_GALLERY"
+msgstr "Galeria"
+
+msgid "IDS_COM_OPT_S_MEMO"
+msgstr "S Memo"
+
+msgid "IDS_COM_BODY_VOIP_CALL"
+msgstr "Trucada VoIP"
+
+msgid "IDS_COM_BODY_S_PLANNER"
+msgstr "Calendari"
+
+msgid "IDS_COM_BODY_SAMSUNG_APPS_T_MAINMENU"
+msgstr "Samsung Apps"
+
+msgid "IDS_COM_BODY_MUSIC"
+msgstr "Música"
+
+msgid "IDS_COM_BODY_MESSAGES"
+msgstr "Missatges"
+
+msgid "IDS_COM_BODY_INTERNET"
+msgstr "Internet"
+
+msgid "IDS_COM_BODY_EMAIL"
+msgstr "Correu electrònic"
+
+msgid "IDS_TW_BODY_POST_TWITTER"
+msgstr "Publicar"
+
+msgid "IDS_EMAIL_BODY_MICROSOFT_EXCHANGE_ACTIVESYNC"
+msgstr "Microsoft Exchange ActiveSync"
+
+msgid "IDS_EMAIL_BODY_MAXIMUM_NUMBER_OF_EMAIL_ACCOUNTS_REACHED"
+msgstr "S'ha assolit el nombre màxim de comptes de correu electrònic"
+
+msgid "IDS_MA_MBODY_AUTO_SYNC"
+msgstr "Sincronització auto"
+
+msgid "IDS_MA_HEADER_ADD_ACCOUNT"
+msgstr "Afegir compte"
+
+msgid "IDS_MA_HEADER_ACCOUNTS"
+msgstr "Comptes"
+
+msgid "IDS_MA_BUTTON_OK"
+msgstr "Acceptar"
+
+msgid "IDS_MA_BODY_YOU_CAN_MANAGE_YOUR_CONTACTS_CALENDARS_EMAIL_AND_IM_ACCOUNTS"
+msgstr "Pot administrar els contactes, calendaris, correu electrònic i comptes de MI"
+
+msgid "IDS_MA_BODY_SIGNED_IN"
+msgstr "S'ha iniciat la sessió"
+
+msgid "IDS_PB_TAB_CONTACTS"
+msgstr "Contactes"
+
+msgid "IDS_PB_BODY_ADD_ACCOUNT"
+msgstr "Afegir compte"
+
+msgid "IDS_ST_BODY_VIDEOS"
+msgstr "Vídeos"
+
+msgid "IDS_ST_BODY_MOBILE_TRACKER"
+msgstr "Rastrejador mòbil"
+
+msgid "IDS_ST_BODY_ACCOUNT_LIST"
+msgstr "Llista de comptes"
+
+msgid "IDS_SYNCML_BODY_SYNC_SERVER"
+msgstr "Servidor de sincronització"
+
+msgid "IDS_TASK_BODY_TASK"
+msgstr "Tasca"
+
+msgid "IDS_HELP_POP_TUTORIAL_COMPLETE"
+msgstr "Programa d'aprenentatge complet"
+
+msgid "IDS_HELP_BODY_SELECT_A_CLOUD_SERVICE_TO_USE_AND_THEN_SET_UP_AN_ACCOUNT_ONCE_YOU_HAVE_SET_UP_A_SAMSUNG_ACCOUNT_SAVED_MEMOS_WILL_BE_SYNCED_AUTOMATICALLY"
+msgstr "Seleccioni un servei al núvol per utilitzar i, a continuació, configuri un compte. Quan hagi configurat un Samsung account, les notes desades se sincronitzaran automàticament."
+
+msgid "IDS_MA_NPBODY_NO_ACCOUNT_PROVIDER_APPS_INSTALLED"
+msgstr "No s'han instal·lat aplicacions del proveïdor de contingut"
+
