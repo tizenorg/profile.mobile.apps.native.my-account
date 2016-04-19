@@ -86,9 +86,7 @@ static void __myaccount_addaccount_gl_sel(void *data,
 					ad) != APP_CONTROL_ERROR_NONE ) {
 			MYACCOUNT_ERROR("__myaccount_addaccount_gl_sel : Failed to launch application\n");
 			myaccount_common_set_item_selected_state(false);
-
 		}
-		
 	}
 	return;
 }
@@ -100,7 +98,6 @@ static Evas_Object *__myaccount_addaccount_icon_get( void *data,
 	char tempbuf[PATH_MAX];
 	Evas_Object *icon = NULL;
 	addaccount_list_priv *service_item = (addaccount_list_priv*)data;
-	Evas_Object *ic = NULL;
 
 	if (!service_item) {
 	        MYACCOUNT_ERROR(" __myaccount_addaccount_icon_get: Data is NULL\n");
@@ -114,18 +111,17 @@ static Evas_Object *__myaccount_addaccount_icon_get( void *data,
 		} else {
 			MA_STRNCPY(tempbuf, "A01_2_Icon_default.png", sizeof(tempbuf));
 		}
-		ic = elm_layout_add(obj);
-		elm_layout_theme_set(ic, "layout", "list/B/type.2", "default");
 
 		icon = elm_image_add(obj);
-		if (strstr(tempbuf, "/"))
+		if ((strstr(tempbuf, "/")) != NULL)
 			elm_image_file_set(icon, tempbuf, NULL);
 		else
 			elm_image_file_set(icon, MA_IMAGE_EDJ_NAME, tempbuf);
 
-		elm_layout_content_set(ic, "elm.swallow.content", icon);
+		evas_object_size_hint_min_set(icon, ELM_SCALE_SIZE(30), ELM_SCALE_SIZE(30));
 	}
-	return ic;
+
+	return icon;
 }
 
 void myaccount_addaccount_free_priv_data(myaccount_appdata *appdata)
@@ -199,23 +195,22 @@ static bool _myaccount_addaccount_get_account_type_info_cb(account_type_h accoun
 	}
 
 	ret = account_type_get_icon_path(account_type, &type_buf);
-	if(ret == ACCOUNT_ERROR_NONE ) {
+	if (ret == ACCOUNT_ERROR_NONE) {
 		if(type_buf) {
-			MA_STRNCPY(sp_info->icon_path, type_buf,
-								sizeof(sp_info->icon_path));
+			MA_STRNCPY(sp_info->icon_path, type_buf, sizeof(sp_info->icon_path));
 		} else {
 			MYACCOUNT_ERROR("No icon path available\n");
 		}
 	} else {
 		MYACCOUNT_ERROR("account_type_get_app_id return(%x)\n", ret);
 	}
+
 	MA_MEMFREE(type_buf);
 
 	char* provider_name = NULL;
 
-	if(ad && ad->current_language){
-
-		if(!strcmp(ad->current_language, "en_US")){
+	if (ad && ad->current_language) {
+		if(!strcmp(ad->current_language, "en_US")) {
 			ret = account_type_get_label_by_locale(account_type, "en_GB", &provider_name);
 		}else{
 			ret = account_type_get_label_by_locale(account_type, ad->current_language, &provider_name);
@@ -263,8 +258,7 @@ static void _myaccount_addaccount_get_account_type_info(const char* capability_f
 
 	if(capability_filter) {
 		account_type_query_by_provider_feature(_myaccount_addaccount_get_account_type_info_cb, capability_filter, (void*)sp_info_list);
-	}
-	else {
+	} else {
 		account_type_foreach_account_type_from_db(_myaccount_addaccount_get_account_type_info_cb, (void*)sp_info_list);
 	}
 }
@@ -553,7 +547,6 @@ void myaccount_addaccount_refresh_item_list(myaccount_appdata *ad)
 					continue;
 				if (!g_strcmp0(prev_info->service_name, info->service_name)) {
 					valid_cnt++;
-					//MYACCOUNT_DBUG("info->service_name[%s]", info->service_name);
 				}
 			}
 		}

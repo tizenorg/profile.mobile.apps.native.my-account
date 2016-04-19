@@ -397,7 +397,6 @@ static Evas_Object *__myaccount_account_list_gl_icon_get(void *data,
 	char tempbuf[PATH_MAX];
 	Evas_Object *icon = NULL;
 	myaccount_list_priv *account_info_item = (myaccount_list_priv*)data;
-	Evas_Object *ic = NULL;
 
 	if (!account_info_item) {
                 MYACCOUNT_ERROR("__myaccount_account_list_gl_icon_get: Data is NULL\n");
@@ -412,16 +411,13 @@ static Evas_Object *__myaccount_account_list_gl_icon_get(void *data,
 			MA_SNPRINTF(tempbuf, sizeof(tempbuf), "%s", "A01_2_Icon_default.png");
 		}
 
-		ic = elm_layout_add(obj);
-		elm_layout_theme_set(ic, "layout", "list/B/type.2", "default");
-
 		icon = elm_image_add(obj);
 		if (strstr(tempbuf, "/"))
 			elm_image_file_set(icon, tempbuf, NULL);
 		else
 			elm_image_file_set(icon, MA_IMAGE_EDJ_NAME, tempbuf);
 
-		elm_layout_content_set(ic, "elm.swallow.content", icon);
+		evas_object_size_hint_min_set(icon, ELM_SCALE_SIZE(30), ELM_SCALE_SIZE(30));
 	}
 
 	if (!strcmp(part, "elm.swallow.end")) {
@@ -430,9 +426,6 @@ static Evas_Object *__myaccount_account_list_gl_icon_get(void *data,
 		MA_SNPRINTF(tempbuf, sizeof(tempbuf), "%s", "account_icon_syncing.png");
 
 		if(strlen(tempbuf) > 0) {
-			ic = elm_layout_add(obj);
-			elm_layout_theme_set(ic, "layout", "list/C/type.3", "default");
-
 			icon = elm_image_add(obj);
 			if (strstr(tempbuf, "/"))
 				elm_image_file_set(icon, tempbuf, NULL);
@@ -440,11 +433,11 @@ static Evas_Object *__myaccount_account_list_gl_icon_get(void *data,
 				elm_image_file_set(icon, MA_IMAGE_EDJ_NAME, tempbuf);
 
 			evas_object_color_set(icon, 67, 116, 217, 255);
-			elm_layout_content_set(ic, "elm.swallow.content", icon);
+			evas_object_size_hint_min_set(icon, ELM_SCALE_SIZE(30), ELM_SCALE_SIZE(30));
 		}
 	}
 
-	return ic;
+	return icon;
 }
 
 static void _myaccount_ug_account_list_layout_cb(ui_gadget_h ug,
