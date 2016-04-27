@@ -358,9 +358,10 @@ static Eina_Bool _myaccount_common_relaunch_application_timer_cb(void *data)
 		ad->relaunch_timer = NULL;
 	}
 
+	app_control_set_launch_mode(ad->appsvc_handle, APP_CONTROL_LAUNCH_MODE_GROUP);
 	app_control_send_launch_request(ad->appsvc_handle, NULL, NULL);
 
-	MYACCOUNT_DBUG("ad->item_selected_state=%d\n", 	myaccount_common_get_item_selected_state());
+	MYACCOUNT_DBUG("ad->item_selected_state=%d\n", myaccount_common_get_item_selected_state());
 	myaccount_common_set_item_selected_state(FALSE);
 
 	app_control_destroy(ad->appsvc_handle);
@@ -491,6 +492,7 @@ int  myaccount_common_launch_application(MyAccountRequestViewType
 	MYACCOUNT_SLOGD("myaccount_common_launch_application request type=%d, package name = %s\n",
 							request_type, package_name);
 
+	app_control_set_launch_mode(app_control, APP_CONTROL_LAUNCH_MODE_GROUP);
 	ret = app_control_send_launch_request(app_control, NULL, NULL);
 	if ( ret != APP_CONTROL_ERROR_NONE ) {
 		MYACCOUNT_ERROR("app_control_send_launch_request fail, ret = %d\n", ret);
