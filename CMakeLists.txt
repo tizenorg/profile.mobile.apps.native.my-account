@@ -5,8 +5,8 @@ SET(APPDIR /usr/apps/setting-myaccount-efl)
 SET(LIBDIR ${APPDIR}/lib/ug)
 SET(BINDIR ${APPDIR}/bin)
 SET(RESDIR ${APPDIR}/res)
+SET(SHAREDDIR ${APPDIR}/shared)
 SET(DATADIR ${APPDIR}/shared/trusted)
-
 
 
 SET(ACCOUNT_LIST_UG_SRCS
@@ -80,6 +80,7 @@ ADD_DEPENDENCIES(${PROJECT_NAME} myaccount_edc_images.edj)
 INSTALL(FILES ${CMAKE_BINARY_DIR}/setting-myaccount-efl.xml DESTINATION /usr/share/packages)
 
 INSTALL(TARGETS ${PROJECT_NAME} DESTINATION ${LIBDIR})
+INSTALL(FILES ${CMAKE_SOURCE_DIR}/data/myaccount_photo/setting-myaccount-efl.png DESTINATION ${SHAREDDIR}/res)
 INSTALL(FILES ${CMAKE_BINARY_DIR}/myaccount.edj DESTINATION ${RESDIR}/edje/${PROJECT_NAME})
 INSTALL(FILES ${CMAKE_BINARY_DIR}/myaccount_edc_images.edj DESTINATION ${RESDIR}/edje/${PROJECT_NAME})
 

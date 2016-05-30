@@ -4,7 +4,7 @@
 	<author email="wy1115.lee@samsung.com" href="www.samsung.com">Wonyoung Lee</author>
 	<description>My Account Application</description>
 	<ui-application appid="setting-myaccount-efl" exec="/usr/apps/setting-myaccount-efl/bin/setting-myaccount-efl" ui-gadget="true" nodisplay="true" multiple="true" type="capp" taskmanage="false" process-pool="true">
-		<icon>/usr/apps/org.tizen.setting/res/icons/list_icon/settings_account.png</icon>
+		<icon>/usr/apps/setting-myaccount-efl/shared/res/setting-myaccount-efl.png</icon>
 		<label>Accounts</label>
 		<label xml:lang="en-us">Accounts</label>
 		<label xml:lang="nl-nl">Accounts</label>

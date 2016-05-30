@@ -39,6 +39,7 @@ Accounts ug of setting application.
 %define BINDIR %{APPDIR}/bin
 %define LIBDIR %{APPDIR}/lib/ug
 %define RESDIR %{APPDIR}/res
+%define SHAREDDIR %{APPDIR}/shared
 %define DATADIR %{APPDIR}/shared/trusted
 
 %build
@@ -61,6 +62,7 @@ cp %{_builddir}/%{name}-%{version}/LICENSE.APLv2  %{buildroot}/usr/share/license
 /usr/share/license/%{name}
 %{LIBDIR}/*
 %{RESDIR}/*
+%{SHAREDDIR}/*
 /usr/share/packages/*.xml
 
 %post
