@@ -1,6 +1,6 @@
 Name:       my-account
 Summary:    My account application
-Version:    1.9.102
+Version:    1.9.103
 Release:    1
 Group:      main/devel
 License:    Apache-2.0
