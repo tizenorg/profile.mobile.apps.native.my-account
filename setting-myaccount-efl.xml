@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns="http://tizen.org/ns/packages" package="setting-myaccount-efl" version="1.9.103" api-version="2.4" install-location="internal-only">
+<manifest xmlns="http://tizen.org/ns/packages" package="setting-myaccount-efl" version="1.9.104" api-version="2.4" install-location="internal-only">
 	<label>Accounts</label>
 	<author email="wy1115.lee@samsung.com" href="www.samsung.com">Wonyoung Lee</author>
 	<description>My Account Application</description>

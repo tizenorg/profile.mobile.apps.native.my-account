@@ -27,7 +27,7 @@
 #include <package-manager.h>
 #include <glib.h>
 
-//#define ENABLE_NOTI
+#define ENABLE_NOTI
 
 typedef enum {
 	MYACCOUNT_TYPE_EXCHANGE = 0,
