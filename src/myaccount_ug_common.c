@@ -261,7 +261,7 @@ void myaccount_common_handle_notification(const char* event_type)
 	if (appdata->eMode == eMYACCOUNT_ACCOUNT_LIST) {
 		if (count > 0) {
 			if (appdata->add_genlist) {
-				if( strcmp(event_type, ACCOUNT_NOTI_NAME_SYNC_UPDATE)){	// not sync update -> insert, update, delete
+				if( event_type == NULL || strcmp(event_type, ACCOUNT_NOTI_NAME_SYNC_UPDATE)){	// not sync update -> insert, update, delete
 					MYACCOUNT_DBUG("#  recved noti-event(%s) -> elm_naviframe_item_pop / quit_cb should be called.", (event_type != NULL) ? event_type : "null");
 					elm_naviframe_item_pop(appdata->navi_bar);
 					appdata->add_genlist = NULL;
